@@ -1,9 +1,10 @@
 ---
-layout: defaults
+layout: post
 title:  "Alex's log TWO"
 categories: test
-style: 1
+style: sax
 ---
+#### Test
 
 ##### July 10
 

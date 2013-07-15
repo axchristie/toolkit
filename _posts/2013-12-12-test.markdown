@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Another test"
+categories: test
+style: clinton
+---
+
+#####Hello, world!

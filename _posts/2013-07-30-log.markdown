@@ -1,8 +1,8 @@
 ---
-layout: pages
+layout: post
 title:  "Alex's log"
 categories: test
-style: 1
+style: sax
 ---
 
 ##### July 10
