@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFFFFF;
+  background-color: #EBEBEB;
   background-image:url(../assets/paper3.jpg);
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
@@ -148,7 +148,7 @@ margin-right: 5%;
 }
 
 div.wrapper{
-  background-color:rgba(255,255,255,0.8);
+  background-color:rgba(255,255,255,01);
   border-radius:20px;
 }
 
