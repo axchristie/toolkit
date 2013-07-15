@@ -1,6 +1,6 @@
 ---
-layout: pages
-title:  "Alex's log"
+layout: defaults
+title:  "Alex's log TWO"
 categories: test
 style: 1
 ---

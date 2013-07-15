@@ -3,14 +3,14 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Testing</title>
+        <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/test/css/syntax.css">
+        <link rel="stylesheet" href="{{ site.baseurl}}/css/syntax.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/test/css/mainn.css">
+        <link rel="stylesheet" href="{{ site.baseurl}}/css/mainn.css">
         
 
     </head>
@@ -19,22 +19,12 @@
         <div class="container">
           <div class="site">
             <div class="header">
-              <h1 class="title"><a href="/test/">home</a></h1>
-              <a class="extra" href="/test/">about</a>
-              <a class="extra" href="/test/test/log.html">pages</a>
+              <a class="extra" href="{{ site.baseurl }}/">home</a>
+              <a class="extra" href="{{ site.baseurl }}/">about</a>
+              <h1 class="title"><a href="{{ site.baseurl }}/">pages</a></h1>
             </div>
 
-                <div>
-<section id="grid">
-    
-			<a class="tile1" href="/test/test/logg.html"><div class="label"><p>Alex's log TWO</p></div></a>
-    
-			<a class="tile1" href="/test/test/log.html"><div class="label"><p>Alex's log</p></div></a>
-    
-			<a class="tile2" href="/test/jekyll/update/welcome-to-jekyll.html"><div class="label"><p>Welcome to Jekyll!</p></div></a>
-    
-</section>
-</div>
+                {{ content }}
 
             <div class="footer">
               <div class="contact">
