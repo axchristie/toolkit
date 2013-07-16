@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #EBEBEB;
-  background-image:url(../assets/paper3.jpg);
+  background-image:url(../assets/paper2.jpg);
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -29,6 +29,10 @@ p { margin: 1em 0; }
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
+h11		  { text-transform: uppercase;
+			font-family: graduate;
+			font-size: 14px;
+			}
 
 table {
   font-size: inherit;
@@ -110,7 +114,7 @@ margin-right: 5%;
 	-moz-box-shadow: 5px 6px 28px dimgray;
 }
 
-.tilesax {
+.tilebooks {
 	position:relative;
 	float:left;
 	margin:10px;
@@ -118,12 +122,12 @@ margin-right: 5%;
 	width:280px;
 	height: 200px;
 	border-radius: 5px;
-	background-image:url(../assets/sax.jpg);
+	background-image:url(../assets/books.jpg);
 	background-repeat: no-repeat;
 }
 
 
-.tilekenny {
+.tilebluebook {
 	position:relative;
 	float:left;
 	margin:10px;
@@ -131,11 +135,11 @@ margin-right: 5%;
 	width:280px;
 	height: 200px;
 	border-radius: 5px;
-	background-image:url(../assets/kenny.jpg);
+	background-image:url(../assets/bluebook.jpg);
 	background-repeat: no-repeat;
 }
 
-.tileclinton {
+.tilefeather {
 	position:relative;
 	float:left;
 	margin:10px;
@@ -143,7 +147,55 @@ margin-right: 5%;
 	width:280px;
 	height: 200px;
 	border-radius: 5px;
-	background-image:url(../assets/clinton.jpg);
+	background-image:url(../assets/feather.jpg);
+	background-repeat: no-repeat;
+}
+
+.tilefocus {
+	position:relative;
+	float:left;
+	margin:10px;
+	margin-bottom:25px;
+	width:280px;
+	height: 200px;
+	border-radius: 5px;
+	background-image:url(../assets/focus.jpg);
+	background-repeat: no-repeat;
+}
+
+.tilehamlet {
+	position:relative;
+	float:left;
+	margin:10px;
+	margin-bottom:25px;
+	width:20px;
+	height: 200px;
+	border-radius: 5px;
+	background-image:url(../assets/hamlet.jpg);
+	background-repeat: no-repeat;
+}
+
+.tilepoetry {
+	position:relative;
+	float:left;
+	margin:10px;
+	margin-bottom:25px;
+	width:280px;
+	height: 200px;
+	border-radius: 5px;
+	background-image:url(../assets/poetry.jpg);
+	background-repeat: no-repeat;
+}
+
+.tiletypecase {
+	position:relative;
+	float:left;
+	margin:10px;
+	margin-bottom:25px;
+	width:280px;
+	height: 200px;
+	border-radius: 5px;
+	background-image:url(../assets/typecase.jpg);
 	background-repeat: no-repeat;
 }
 

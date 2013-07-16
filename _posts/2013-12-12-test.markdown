@@ -2,7 +2,7 @@
 layout: post
 title:  "Another test"
 categories: test
-picture: clinton
+picture: poetry
 ---
 
 #####Hello, world!

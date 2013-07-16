@@ -2,7 +2,7 @@
 layout: post
 title:  "Alex's log"
 categories: test
-picture: sax
+picture: feather
 ---
 
 ##### July 10

@@ -13,8 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #EBEBEB;
-  background-image:url(../assets/paper2.jpg);
+  background-color: #FFFFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -88,7 +87,7 @@ margin-right: 5%;
 	-webkit-text-align:center;
 	text-decoration: none;
 	margin-top:50%;
-	border-radius: 0px 0px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
 	background-color:rgba(0,0,0,0.45);
 }
 
@@ -168,7 +167,7 @@ margin-right: 5%;
 	float:left;
 	margin:10px;
 	margin-bottom:25px;
-	width:20px;
+	width:280px;
 	height: 200px;
 	border-radius: 5px;
 	background-image:url(../assets/hamlet.jpg);

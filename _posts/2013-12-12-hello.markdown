@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Another test"
+categories: test
+picture: typecase
+---
+
+
+#####Alex and Nina win the world
+
+* Thing one
+* Yay!

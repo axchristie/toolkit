@@ -1,0 +1,12 @@
+---
+layout: resources
+title: Testing
+---
+
+<div>
+<section id="grid">
+    {% for post in site.posts %}
+			<a class="tile{{ post.picture }}" href="{{ site.baseurl }}{{ post.url }}"><div class="label"><p>{{ post.title }}</p></div></a>
+    {% endfor %}
+</section>
+</div>
