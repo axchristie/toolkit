@@ -73,9 +73,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 p.wrapper{
 margin-left: 5%;
 margin-right: 5%;
+background-color: #FFFFF;
 }
 
 /* EXPERIMENTAL */
+
+div.header{
+  background-color: #d3d3d3;
+  border-radius: 5px 5px 5px 5px;
+  }
 	
 	.label {
 	width:100%;
@@ -100,9 +106,8 @@ margin-right: 5%;
 	height:auto;
 	margin-left:auto;
 	margin-right:auto;
-	padding-top: 1%;
-	padding-bottom: 4.5%;
-	padding-left:6%;
+	padding-top: 2%;
+	padding-bottom: 2%;
 }
 
 #grid a:hover {
@@ -255,6 +260,7 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
+  margin-top: 2em;
   margin-bottom: 2em;
 }
 
@@ -294,13 +300,13 @@ ul.posts span {
 }
 
 .site .footer {
-  width: 60%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   background-color: #FFFFFF;
   font-size: 80%;
-  background-color:rgba(0,0,0,00);
-  margin-top: 2em;
+  background-color: #d3d3d3;
+  border-radius: 5px 5px 5px 5px;
   overflow: hidden;
 }
 
