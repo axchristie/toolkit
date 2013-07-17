@@ -2,7 +2,7 @@
 layout: post
 title:  "In-Class Activities"
 categories: activities
-picture: bluebook
+picture: hamlet
 ---
 
 ##In-Class Activities
@@ -27,7 +27,7 @@ picture: bluebook
 
 * [Writing Prompt on Mansfield's "Bliss"](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/bliss%20prompt.docx?raw=true )
 
-###Diagnostic Essay: Nick Mount on Intellectual Citizenship
+####Diagnostic Essay: Nick Mount on Intellectual Citizenship
 
 * [Writing Prompt](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/diagnostic_mount.docx?raw=true)
 
@@ -35,3 +35,10 @@ picture: bluebook
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/VYVTPzgFcuc&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VYVTPzgFcuc&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
+####Video Prompt: How and Why We Read
+
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/MSYw502dJNY&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/MSYw502dJNY&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+
+####Video Prompt: Poetry Makes Nothing Happen
+
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/nDwTjPsG4b0&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nDwTjPsG4b0&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>

@@ -17,6 +17,8 @@ picture: books
 
 * [Tree](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/poetry/SP146Tree.docx?raw=true)
 
+* [Wallace Stevens's "The Motive for Metaphor"](http://www.cityintherain.com/poems/vitalx.html)
+
 ### Prose
 
 * [Millhauser, "The Ambition of the Short Story](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/prose/DDMilhausser.doc?raw=true)
@@ -28,3 +30,5 @@ picture: books
 * [Analyzing Drama](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/drama/145Drama.doc?raw=true)
 
 * [Millington, "The Playboy of the Western World](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/drama/SP146_Playboy.doc?raw=true)
+
+* [One-Act Plays](http://www.one-act-plays.com/)
