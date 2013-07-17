@@ -29,6 +29,9 @@ picture: bluebook
 
 ###Diagnostic Essay: Nick Mount on Intellectual Citizenship
 
+* [Writing Prompt](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/diagnostic_mount.docx?raw=true)
+
+<br>
+
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/VYVTPzgFcuc&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VYVTPzgFcuc&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-* [Writing Prompt](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/diagnostic_mount.docx?raw=true)
