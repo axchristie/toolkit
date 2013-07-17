@@ -102,7 +102,7 @@ margin-right: 5%;
 	
 div.header{
   background-color: #d3d3d3;
-  border-radius: 5px 5px 0px 0px;
+  margin-bottom: -1em;
   }
 	
 	.label {
@@ -226,18 +226,23 @@ div.header{
 	background-repeat: no-repeat;
 }
 
+div.shadow{
+  box-shadow: inset 0 3px 10px rgba(0,0,0,.4);
+}
+
 div.wrapper{
   background-color:rgba(255,255,255,01);
   border-radius:20px;
-  margin-top: -2em;
-  margin-bottom: 4em;
+  width: 55%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 table.wrapper{
- width: 96%;
- margin-left: 2%;
+ width: 98%;
+ margin-left: 3%
 }
- 
+
 /*****************************************************************************/
 /*
 /* Home
@@ -267,8 +272,7 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 65%;
-  margin: 3em auto 2em;
+  width: 100%;
   line-height: 1.5em;
 }
 
@@ -330,9 +334,8 @@ ul.posts span {
   margin-right: auto;
   font-size: 80%;
   background-color:#d3d3d3;
-  border-radius: 5px 5px 5px 5px;
-  margin-top: -2em;
   overflow: hidden;
+  margin-top: -1em;
 }
 
 .site .footer .contact {
