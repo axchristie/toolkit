@@ -366,7 +366,7 @@ ul.posts span {
 }
 
 .site .footer .contact {
-  float: left;
+  text-align: center;
   margin-right: 3em;
 }
 
