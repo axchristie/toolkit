@@ -13,7 +13,7 @@ picture: poetry
 
 * [Graph of Ways of Approaching a Literary Text](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/approaches_to_lit/approach_graph.pdf?raw=true)
 
-###Poetry <span class="arrowh3"></span>
+###Poetry <span class="arrowh3"></span></div>
 
 
 * [An Introduction to Poetry](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/poetry/An_Introduction_to_Poetry.pdf?raw=true)
