@@ -22,7 +22,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 1em;}
+
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -264,11 +265,10 @@ ul.posts span {
 }
 
 .site .header h1.title a {
-  background-color: #00BFFF;
-  padding: .5em; .5em; 100%; 100%;
-  border-radius: .5em;
-  color: #FF8C00;
+  color: #CC3300;
   margin-left: 1em;
+  font-family: abel, sans-serif;
+  font-size: 35px;
 }
 
 /**
@@ -280,18 +280,16 @@ ul.posts span {
 **/
 
 .site .header a.extra {
-  background-color:rgba(255,255,255,0.6);
-  padding: .5em; .5em; 100%; 100%;
-  border-radius: .5em;
   color: #FF6600;
   margin-left: 1em;
+  font-family: abel, sans-serif;
+  font-size: 30px;
 }
 
 .site .header a.extra:hover {
-  background-color:rgba(0,0,0,0.1);
-  padding: .5em; .5em; 100%; 100%;
-  border-radius: .5em;
   color: #CC3300;
+  font-family: abel, sans-serif;
+  font-size: 35px;
 }
 
 .site .meta {
