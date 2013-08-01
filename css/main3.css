@@ -80,7 +80,7 @@ background-color: #FFFFF;
 /* EXPERIMENTAL */
 
 div.header{
-  background-color: #d3d3d3;
+
   }
 	
 	.label {
@@ -302,7 +302,6 @@ ul.posts span {
   margin-right: auto;
   background-color: #FFFFFF;
   font-size: 80%;
-  background-color: #d3d3d3;
   overflow: hidden;
 }
 
