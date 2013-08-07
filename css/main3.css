@@ -83,22 +83,20 @@ div.header{
 
   }
 	
-	.label {
+.label {
 	width:100%;
-	height:50px;
+	height:40px;
 	color:white;
 	font-family: Trebuchet MS, sans-serif;
 	font-size: medium;
 	text-align: center;
 	-webkit-text-align:center;
-	text-decoration: none;
 	margin-top:50%;
-	border-radius: 5px 5px 5px 5px;
 	background-color:rgba(0,0,0,0.45);
 }
 
 .label p {
-	padding-top:18px;
+	padding-top:9px;
 }
 	
 #grid {
@@ -129,7 +127,6 @@ div.header{
 	background-image:url(../assets/books.jpg);
 	background-repeat: no-repeat;
 }
-
 
 .tilebluebook {
 	position:relative;
@@ -205,7 +202,7 @@ div.header{
 
 div.wrapper{
   background-color:rgba(255,255,255,01);
-  box-shadow: inset 0 3px 10px rgba(0,0,0,.4);
+
 }
 
 table.wrapper{

@@ -13,7 +13,6 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #d3d3d3;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -197,10 +196,12 @@ margin-right: 5%;
 /* EXPERIMENTAL */
 	
 div.header{
-  margin-bottom: -1em;
+  margin-top: .3em;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 5px rgba(0,0,0,.4);
   }
 	
-	.label {
+.label {
 	width:100%;
 	height:50px;
 	color:white;
@@ -323,12 +324,8 @@ div.header{
 
 div.wrapper{
   background-color:rgba(255,255,255,01);
-  -moz-box-shadow:    3px 3px 5px 6px #ccc;
-  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-  box-shadow:         3px 3px 5px 6px #ccc;
-  border-radius:20px;
   width: 55%;
-  margin-top: 4px;
+  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
 }
