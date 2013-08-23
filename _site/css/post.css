@@ -13,8 +13,9 @@
 html, body { height: 100%; }
 
 body {
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  background-image: url(../assets/wood.jpg);
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
   text-align: center;
 }
 
@@ -75,7 +76,9 @@ img {
 }  
 
 h2{
-  color: #fff;
+  border-top: 1px dashed black;
+  border-bottom: 1px dashed black;
+  color: white;
   width: 70%;
   border-radius: 5px;
   box-shadow: inset 0 10px 10px rgba(0,0,0,.3),
@@ -83,7 +86,7 @@ h2{
     0 -1px 0 rgba(0,0,0,.5);
     margin: 30px 0;
   margin-left: -60px;
-  padding: 10px 10px 10px;
+  padding: 15px 10px 15px;
   padding-left: 30px;
   border-radius: 0 5px 5px 0;
   position: relative;
@@ -121,7 +124,7 @@ h3{
     0 -1px 0 rgba(0,0,0,.5);
     margin: 30px 0;
   margin-left: -50px;
-  padding: 10px 10px 10px;
+  padding: 12px 10px 12px;
   padding-left: 30px;
   border-radius: 0 5px 5px 0;
   position: relative;
@@ -159,7 +162,7 @@ h4{
     0 -1px 0 rgba(0,0,0,.5);
     margin: 30px 0;
   margin-left: -45px;
-  padding: 10px 10px 10px;
+  padding: 9px 10px 9px;
   padding-left: 30px;
   border-radius: 0 5px 5px 0;
   position: relative;
@@ -195,11 +198,31 @@ margin-right: 5%;
 
 /* EXPERIMENTAL */
 	
-div.header{
-  margin-top: .3em;
-  border-radius: 5px;
-  box-shadow: 0 0 5px 5px rgba(0,0,0,.4);
-  }
+.site .header{
+	border-radius: 5px;
+	background-color: rgba(255,255,255,0.5);
+	margin-top: 5%;
+	width: 800px;
+	margin-left: auto;
+	 margin-right: auto;
+	 box-shadow: 1px 0px 10px 2px black;
+}
+
+h0{
+	font-variant: small-caps, bold;
+	font-family: 'Port Lligat Slab';
+	color: white;
+	font-size: 80px;
+	z-index: 99;
+}
+
+ha{
+	font-family: 'Port Lligat Slab';
+	color: black;
+	font-size: 20px;
+	padding-left: 3em;
+	z-index: 88;
+}
 	
 .label {
 	width:100%;
@@ -323,11 +346,12 @@ div.header{
 }
 
 div.wrapper{
-  background-color:rgba(255,255,255,01);
+  background-color:white;
   width: 55%;
   margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 5px;
 }
 
 table.wrapper{
@@ -374,6 +398,16 @@ ul.posts span {
  height: 35em;
  }
 
+.site .header{
+	border-radius: 5px;
+	background-color: rgba(255,255,255,0.5);
+	margin-top: 5%;
+	width: 800px;
+	margin-left: auto;
+	 margin-right: auto;
+	 box-shadow: 1px 0px 10px 2px black;
+}
+
 .site .header a {
   font-weight: bold;
   text-decoration: none;
@@ -381,8 +415,8 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
-  margin-bottom: 3em;
   margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 .site .header h1.title a {
@@ -401,7 +435,7 @@ ul.posts span {
 **/
 
 .site .header a.extra {
-  color: #FF6600;
+  color: rgba(255,163,0,0.9);
   margin-left: 1em;
   font-family: abel, sans-serif;
   font-size: 30px;
@@ -418,13 +452,14 @@ ul.posts span {
 }
 
 .site .footer {
+  border-top: 1px solid black;
   width: 100%;
+  height: 100%;
   margin-left: auto;
   margin-right: auto;
+  background-color: grey;
   font-size: 80%;
-  background-color:#d3d3d3;
   overflow: hidden;
-  margin-top: -1em;
 }
 
 .site .footer .contact {
@@ -445,7 +480,6 @@ ul.posts span {
 .site .footer .rss img {
   border: 0;
 }
-
 /*****************************************************************************/
 /*
 /* Posts

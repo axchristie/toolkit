@@ -13,7 +13,8 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFFFF;
+  background-color: rgba(195,188,188,0.89);
+  background-image: url(../assets/wood.jpg);
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -34,9 +35,20 @@ h11		  { text-transform: uppercase;
 			font-size: 14px;
 			}
 
-table {
-  font-size: inherit;
-  font: 100%;
+h0{
+	font-variant: small-caps, bold;
+	font-family: 'Port Lligat Slab';
+	color: white;
+	font-size: 80px;
+	z-index: 99;
+}
+
+ha{
+	font-family: 'Port Lligat Slab';
+	color: black;
+	font-size: 20px;
+	padding-left: 3em;
+	z-index: 88;
 }
 
 img {
@@ -77,30 +89,103 @@ margin-right: 5%;
 background-color: #FFFFF;
 }
 
+/*************************************************/
+/*
+/* Index content
+/*
+/*************************************************/
+a:link {
+	text-decoration: none;
+	color: orange;
+}
+
+a:visited{
+	color:orange;
+}
+
+a:hover{
+	color: red;
+}
+
+.announce{
+	float: left;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: inset 1px 1px 5px 7px black;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.pan{
+	margin-top: .5em;
+	margin-bottom: .5em;
+	float: left;
+	text-align: justify;
+	margin-left: 15%;
+	margin-right: 15%;
+	max-width: 1300px;
+	font-size: 50px;
+	color: white;
+	line-height: 1em;
+}
+
+
+.wrapper{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.box{
+	float: left;
+	margin-left: 10%;
+	margin-bottom: 5%;
+	border-radius: 5px;
+	width: 300px;
+	height: 350px;
+	background-color: rgba(255,255,255,0.5);
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.box h1{
+	margin-top: .5em;
+	color: white;
+	text-align: left;
+	font-family: helvetica;
+	font-variant: small-caps;
+	font-size: 40px;
+}
+
+.box p{
+	color: black;
+	text-align: left;
+	font-family: helvetica;
+	font-size: 24px;
+}
+
 /* EXPERIMENTAL */
 
-div.header{
-
-  }
 	
 .label {
 	width:100%;
-	height:40px;
+	height:60px;
 	color:white;
 	font-family: Trebuchet MS, sans-serif;
 	font-size: medium;
 	text-align: center;
 	-webkit-text-align:center;
-	margin-top:50%;
+	margin-top:110%;
 	background-color:rgba(0,0,0,0.45);
 }
 
 .label p {
-	padding-top:9px;
+	padding-top:15px;
 }
 	
 #grid {
-	width:100%;
+	width:70%;
 	height:auto;
 	margin-left:auto;
 	margin-right:auto;
@@ -109,95 +194,138 @@ div.header{
 }
 
 #grid a:hover {
-	box-shadow: 5px 6px 28px dimgray;
-	-webkit-box-shadow: 5px 6px 28px dimgray;
-	-ms-box-shadow: 5px 6px 28px dimgray;
-	-o-box-shadow: 5px 6px 28px dimgray;
-	-moz-box-shadow: 5px 6px 28px dimgray;
+	box-shadow: inset 5px 6px 10px dimgray;
+	-webkit-box-shadow: inset 5px 6px 10px dimgray;
+	-ms-box-shadow: inset 5px 6px 10px dimgray;
+	-o-box-shadow: inset 5px 6px 10px dimgray;
+	-moz-box-shadow: inset 5px 6px 10px dimgray;
 }
 
 .tilebooks {
 	position:relative;
 	float:left;
 	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
 	margin-bottom:25px;
-	width:280px;
-	height: 200px;
+	width:200px;
+	height: 300px;
 	border-radius: 5px;
 	background-image:url(../assets/books.jpg);
 	background-repeat: no-repeat;
+	box-shadow: 5px 6px 28px dimgray;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
 }
 
 .tilebluebook {
 	position:relative;
 	float:left;
 	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
 	margin-bottom:25px;
-	width:280px;
-	height: 200px;
-	border-radius: 5px;
+	width:200px;
+	height: 300px;
+	border-radius: 10px;
 	background-image:url(../assets/bluebook.jpg);
 	background-repeat: no-repeat;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
 }
 
 .tilefeather {
 	position:relative;
 	float:left;
 	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
 	margin-bottom:25px;
-	width:280px;
-	height: 200px;
+	width:200px;
+	height: 300px;
 	border-radius: 5px;
 	background-image:url(../assets/feather.jpg);
 	background-repeat: no-repeat;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
 }
 
 .tilefocus {
 	position:relative;
 	float:left;
 	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
 	margin-bottom:25px;
-	width:280px;
-	height: 200px;
+	width:200px;
+	height: 300px;
 	border-radius: 5px;
 	background-image:url(../assets/focus.jpg);
 	background-repeat: no-repeat;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
 }
 
 .tilehamlet {
 	position:relative;
 	float:left;
 	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
 	margin-bottom:25px;
-	width:280px;
-	height: 200px;
+	width:200px;
+	height: 300px;
 	border-radius: 5px;
 	background-image:url(../assets/hamlet.jpg);
 	background-repeat: no-repeat;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
 }
 
 .tilepoetry {
 	position:relative;
 	float:left;
 	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
 	margin-bottom:25px;
-	width:280px;
-	height: 200px;
+	width:200px;
+	height: 300px;
 	border-radius: 5px;
 	background-image:url(../assets/poetry.jpg);
 	background-repeat: no-repeat;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
 }
 
 .tiletypecase {
 	position:relative;
 	float:left;
 	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
 	margin-bottom:25px;
-	width:280px;
-	height: 200px;
+	width:200px;
+	height: 300px;
 	border-radius: 5px;
 	background-image:url(../assets/typecase.jpg);
 	background-repeat: no-repeat;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
 }
 
 div.wrapper{
@@ -250,6 +378,16 @@ ul.posts span {
  height: 35em;
  }
 
+.site .header{
+	border-radius: 5px;
+	background-color: rgba(255,255,255,0.5);
+	margin-top: 5%;
+	width: 800px;
+	margin-left: auto;
+	 margin-right: auto;
+	 box-shadow: 1px 0px 10px 2px black;
+}
+
 .site .header a {
   font-weight: bold;
   text-decoration: none;
@@ -277,7 +415,7 @@ ul.posts span {
 **/
 
 .site .header a.extra {
-  color: #FF6600;
+  color: rgba(255,163,0,0.9);
   margin-left: 1em;
   font-family: abel, sans-serif;
   font-size: 30px;
@@ -294,10 +432,12 @@ ul.posts span {
 }
 
 .site .footer {
+  border-top: 1px solid black;
   width: 100%;
+  height: 100%;
   margin-left: auto;
   margin-right: auto;
-  background-color: #FFFFFF;
+  background-color: grey;
   font-size: 80%;
   overflow: hidden;
 }
