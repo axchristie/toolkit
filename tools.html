@@ -1,12 +1,12 @@
 ---
-layout: resources
+layout: tools
 title: Testing
 ---
 
 <div>
 <section id="grid">
     {% for post in site.posts %}
-    	   {% if post.categories contains 'resources' %}
+    	   {% if post.categories contains 'tools' %}
 			<a class="tile{{ post.picture }}" href="{{ site.baseurl }}{{ post.url }}"><div class="label"><p>{{ post.title }}</p></div></a>
 			{% endif %}
     {% endfor %}

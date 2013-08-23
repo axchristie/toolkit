@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alex's log TWO"
-categories: test
+categories: tools
 picture: hamlet
 ---
 #### Test

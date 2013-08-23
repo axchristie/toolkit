@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Grammar and Punctuation"
-categories: mechanics
+categories: resources
 picture: typecase
 ---
 
-##Grammar and Punctuation
+##Grammar and Punctuation <span class="arrowh2"></span>
 
-###Grammar
+###Grammar <span class="arrowh3"></span>
 
 * [Grammar Handout](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/grammar_and_punctuation/146GrammarHandout.docx?raw=true)
 
@@ -23,6 +23,6 @@ picture: typecase
 
 * [Purdue OWL: Proofreading](https://owl.english.purdue.edu/owl/resource/561/05/)
 
-###Punctuation
+###Punctuation <span class="arrowh3"></span>
 
 * [Punctuation and Apostrophes Handout](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/grammar_and_punctuation/SFCCpunctuation.pdf?raw=true)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Another test"
-categories: test
+categories: tools
 picture: poetry
 ---
 

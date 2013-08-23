@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sample Texts"
-categories: sample texts
+categories: resources
 picture: books
 ---
 
-## Sample Texts
+## Sample Texts <span class="arrowh2"></span>
 
-### Poetry
+### Poetry <span class="arrowh3"></span>
 
 * [Death of a Naturalist](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/poetry/146DEATH_OF_A_NATURALIST.docx?raw=true)
 
@@ -19,13 +19,13 @@ picture: books
 
 * [Wallace Stevens's "The Motive for Metaphor"](http://www.cityintherain.com/poems/vitalx.html)
 
-### Prose
+### Prose <span class="arrowh3"></span>
 
 * [Millhauser, "The Ambition of the Short Story](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/prose/DDMilhausser.doc?raw=true)
 
 * [O'Connor, from *The Lonely Voice: A Study of the Short Story*](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/prose/From_The_Lonely_Voice.doc?raw=true)
 
-### Drama
+### Drama <span class="arrowh3"></span>
 
 * [Analyzing Drama](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/drama/145Drama.doc?raw=true)
 

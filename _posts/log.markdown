@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alex's log"
-categories: test
+categories: tools
 picture: feather
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Writing Strategies"
-categories: composition
+categories: resources
 picture: feather
 ---
 
-##Writing Strategies
+##Writing Strategies <span class="arrowh2"></span>
 
-###Composition and Revision
+###Composition and Revision <span class="arrowh3"></span>
 
 * [Strategies for Preparing a Response to an Article](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/response_to_an_article.pdf?raw=true)
 
@@ -31,15 +31,15 @@ picture: feather
 
 * [Internet Detective: Tutorial for Online Research](http://www.vtstutorials.ac.uk/detective/index.html)
 
-####Video: Proofreading
+####Video: Proofreading <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/OonDPGwAyfQ&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OonDPGwAyfQ&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-####Video: Incorporating Quotations
+####Video: Incorporating Quotations <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/pe9tV6gVfdM&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pe9tV6gVfdM&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-###Citation
+###Citation <span class="arrowh3"></span>
 
 * [Integrating Poetry Quotations Presentation](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/integrating_poetry.pptx?raw=true)
 
@@ -49,12 +49,12 @@ picture: feather
 
 * [Purdue OWL: MLA Style](http://owl.english.purdue.edu/owl/resource/747/01/)
 
-###Plagiarism
+###Plagiarism <span class="arrowh3"></span>
 
 * [How to Prevent Plagiarism](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/Avoiding_Plagiarism_allan_mitchell.doc?raw=true)
 
 * [UVic Plagiarism Page](http://library.uvic.ca/instruction/cite/plagiarism.html)
 
-####Plagiarism Video
+####Plagiarism Video <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/VnTPv9PtOoo&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VnTPv9PtOoo&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>

@@ -96,15 +96,15 @@ background-color: #FFFFF;
 /*************************************************/
 a:link {
 	text-decoration: none;
-	color: orange;
+	color: indigo;
 }
 
 a:visited{
-	color:orange;
+	color:indigo;
 }
 
 a:hover{
-	color: red;
+	color: midnightblue;
 }
 
 .announce{
@@ -186,7 +186,6 @@ a:hover{
 	
 #grid {
 	width:70%;
-	height:auto;
 	margin-left:auto;
 	margin-right:auto;
 	padding-top: 2%;
@@ -388,6 +387,11 @@ ul.posts span {
 	 box-shadow: 1px 0px 10px 2px black;
 }
 
+.pad{
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
 .site .header a {
   font-weight: bold;
   text-decoration: none;
@@ -395,15 +399,21 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
+   margin-left: 10px;
+  margin-right: 10px; 
   margin-top: 2em;
   margin-bottom: 2em;
 }
 
 .site .header h1.title a {
-  color: #CC3300;
-  margin-left: 1em;
+  color: midnightblue;
   font-family: abel, sans-serif;
-  font-size: 35px;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: rgba(1,1,1,0.2);
+  box-shadow: 1px 1px 2px 2px black;
+  border-radius: 5px;
 }
 
 /**
@@ -415,16 +425,20 @@ ul.posts span {
 **/
 
 .site .header a.extra {
-  color: rgba(255,163,0,0.9);
-  margin-left: 1em;
+  color: indigo;
+  margin-left: 10px;
+  margin-right: 10px;
   font-family: abel, sans-serif;
   font-size: 30px;
 }
 
 .site .header a.extra:hover {
-  color: #CC3300;
+  color: midnightblue;
   font-family: abel, sans-serif;
-  font-size: 35px;
+  font-size: 30px;
+  background-color: rgba(1,1,1,0.2);
+  box-shadow: 1px 1px 2px 2px black;
+  border-radius: 5px;
 }
 
 .site .meta {

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Close Reading"
-categories: close reading
+categories: resources
 picture: focus
 ---
 
-##Close Reading
+##Close Reading <span class="arrowh2"></span>
 
-###Analyzing Poetry
+###Analyzing Poetry <span class="arrowh3"></span>
 
 * [Analyzing a Poem Presentation](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/close_reading/AnalyzingPoem.pptx?raw=true)
 
@@ -19,11 +19,11 @@ picture: focus
 
 * [Purdue OWL: Close Reading Strategies](http://owl.english.purdue.edu/owl/resource/616/01/)
 
-####Video: What is Close Reading?
+####Video: What is Close Reading? <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-###Sample Student Analyses
+###Sample Student Analyses <span class="arrowh3"></span>
 
 * [Sample Student Analyses One](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/close_reading/146SampleStudentAnalyses.docx?raw=true)
 
