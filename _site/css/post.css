@@ -33,10 +33,6 @@ h11		  { text-transform: uppercase;
 			font-size: 14px;
 			}
 
-embed{
-	display: block;
-}
-
 a:link {
 	text-decoration: none;
 	color: orange;
@@ -58,12 +54,11 @@ table {
 }
 
 img {
-	border-radius: 20px;
 	max-width: 700px;
 	max-height: 600px;
-	text-align: center;
+	text-align: left;
 	display: block;
-	margin: 0 auto;
+	margin: left;
 	border: 1px solid black;
     height: auto;
     width: auto\9; /* ie8 */
