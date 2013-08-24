@@ -33,6 +33,10 @@ h11		  { text-transform: uppercase;
 			font-size: 14px;
 			}
 
+embed{
+	display: block;
+}
+
 a:link {
 	text-decoration: none;
 	color: orange;
