@@ -327,6 +327,24 @@ a:hover{
 	-moz-box-shadow: 5px 6px 28px black;
 }
 
+.tilevoyant {
+	position:relative;
+	float:left;
+	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom:25px;
+	width:200px;
+	height: 300px;
+	border-radius: 5px;
+	background-image:url(../assets/voyant-see.png);
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
+}
+
 div.wrapper{
   background-color:rgba(255,255,255,01);
 
