@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Voyant Tools"
+title: "CiTES: A toolbox for digital pedagogy"
 categories: tools
 picture: voyant
 ---

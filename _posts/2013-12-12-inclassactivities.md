@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In-Class Activities"
+title: "CiTES: A toolbox for digital pedagogy"
 categories: resources
 picture: hamlet
 ---

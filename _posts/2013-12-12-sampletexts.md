@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Texts"
+title: "CiTES: A toolbox for digital pedagogy"
 categories: resources
 picture: books
 ---

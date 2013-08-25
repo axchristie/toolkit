@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing Strategies"
+title: "CiTES: A toolbox for digital pedagogy"
 categories: resources
 picture: feather
 ---
