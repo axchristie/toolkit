@@ -37,7 +37,7 @@ h11		  { text-transform: uppercase;
 
 h0{
 	font-variant: small-caps, bold;
-	font-family: 'Port Lligat Slab';
+	font-family: 'Port Lligat Slab', serif;
 	color: white;
 	font-size: 80px;
 	z-index: 99;
@@ -94,6 +94,11 @@ background-color: #FFFFF;
 /* Index content
 /*
 /*************************************************/
+.logo{
+	margin-left: -15px;
+	margin-top: -70px;
+}
+
 a:link {
 	text-decoration: none;
 	color: indigo;
@@ -338,6 +343,60 @@ a:hover{
 	height: 300px;
 	border-radius: 5px;
 	background-image:url(../assets/voyant-see.png);
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
+}
+
+.tileprism {
+	position:relative;
+	float:left;
+	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom:25px;
+	width:200px;
+	height: 300px;
+	border-radius: 5px;
+	background-image:url(../assets/prism.png);
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
+}
+
+.tileeliot {
+	position:relative;
+	float:left;
+	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom:25px;
+	width:200px;
+	height: 300px;
+	border-radius: 5px;
+	background-image:url(../assets/eliot.png);
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 5px 6px 28px black;
+	-ms-box-shadow: 5px 6px 28px black;
+	-o-box-shadow: 5px 6px 28px black;
+	-moz-box-shadow: 5px 6px 28px black;
+}
+
+.tilebetterverse {
+	position:relative;
+	float:left;
+	margin:10px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom:25px;
+	width:200px;
+	height: 300px;
+	border-radius: 5px;
+	background-image:url(../assets/betterverse.png);
 	background-repeat: no-repeat;
 	-webkit-box-shadow: 5px 6px 28px black;
 	-ms-box-shadow: 5px 6px 28px black;

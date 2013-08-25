@@ -6,7 +6,7 @@ picture: voyant
 ---
 
 ##Voyant Tools <span class="arrowh2"></span>
-###[Start working with Voyant](http://docs.voyant-tools.org/tools/) <span class="arrowh3"></span>
+###[Start teaching with Voyant](http://docs.voyant-tools.org/tools/) <span class="arrowh3"></span>
 
 ![](../assets/chart.png)
 
