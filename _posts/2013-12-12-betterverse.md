@@ -12,10 +12,10 @@ picture: betterverse
 
 ###Overview <span class="arrowh3"></span>
 
-<embed width="560" height="315" src="//youtube.com/embed/BK3i-Z_KCoM"></embed>
 
 ###Documentation <span class="arrowh3"></span>
 
+<embed width="560" height="315" src="//youtube.com/embed/BK3i-Z_KCoM"></embed>
 
 ##Suggested Activities <span class="arrowh2"></span>
 
