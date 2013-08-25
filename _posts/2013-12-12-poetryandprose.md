@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CiTES: A toolbox for digital pedagogy"
+title: Poetry and Prose
 categories: resources
 picture: poetry
 ---

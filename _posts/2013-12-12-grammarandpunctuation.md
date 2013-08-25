@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CiTES: A toolbox for digital pedagogy"
+title: Grammar and Punctuation
 categories: resources
 picture: typecase
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CiTES: A toolbox for digital pedagogy"
+title: For Better or For Verse
 categories: tools
 picture: betterverse
 ---

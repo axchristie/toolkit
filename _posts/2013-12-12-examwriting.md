@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CiTES: A toolbox for digital pedagogy"
+title: Resources for Exam Writing
 categories: resources
 picture: bluebook
 ---

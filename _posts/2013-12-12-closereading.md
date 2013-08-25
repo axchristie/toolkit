@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CiTES: A toolbox for digital pedagogy"
+title: Close Reading
 categories: resources
 picture: focus
 ---
