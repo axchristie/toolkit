@@ -202,6 +202,14 @@ h0{
 	z-index: 99;
 }
 
+h01{
+	font-variant: bold;
+	font-family: 'Port Lligat Slab', serif;
+	color: #666;
+	font-size: 20px;
+	z-index: 99;	
+}
+
 ha{
 	font-family: 'Port Lligat Slab';
 	color: black;
