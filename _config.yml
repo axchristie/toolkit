@@ -1,4 +1,11 @@
-name: cites
+name: CiTE
+subtitle: Beta
+description: A toolbox for digital pedagogy in composition, rhetoric, and literature
 pygments: true
 permalink: none
 baseurl: /test
+
+page1: welcome
+page2: teaching resources
+page3: online tools
+page4: templates

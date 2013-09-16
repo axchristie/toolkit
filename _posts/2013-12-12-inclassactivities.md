@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resource
 title: In-Class Activities
 categories: resources
 picture: hamlet

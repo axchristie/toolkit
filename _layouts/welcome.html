@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="{{ site.baseurl}}/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="{{ site.baseurl}}/css/style.css">
+
+		<!-- Web Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' 			type='text/css'><type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Port+Lligat+Slab' rel='stylesheet' type='text/css'>   
+		 <script src="//use.edgefonts.net/abel.js"></script>  
+		 <script src="//use.edgefonts.net/pt-sans-narrow.js"></script>
+		<script src="//use.edgefonts.net/cabin-sketch.js"></script>
+ 
+		<!-- Favicon -->		 		 
+		 <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+	            <h0>{{ site.name }}</h0><h01>{{ site.subtitle }}</h01><br>
+            <ha>{{ site.description }}</ha><br>
+                        <div class="pad">
+              <h11>
+              <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.page1 }}</a></h1>
+              <a class="extra" href="{{ site.baseurl }}/resources/">{{ site.page2 }}</a>
+              <a class="extra" href="{{ site.baseurl }}/tools/">{{ site.page3 }}</a>
+              <a class="extra" href="{{ site.baseurl }}/templates/">{{ site.page4 }}</a>
+              </h11>
+            </div>
+            </div>
+
+
+
+                {{ content }}
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  Powered by <a href="https://github.com/axchristie/test/tree/gh-pages">GitHub</a>              &nbsp; &nbsp; &nbsp; &nbsp; University of Victoria 2013<p>
+                </p>
+              </div>
+              <div>
+              </div>
+            </div>
+          </div>
+        </div> <!-- /container -->
+
+    </body>
+</html>

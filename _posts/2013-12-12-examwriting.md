@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resource
 title: Resources for Exam Writing
 categories: resources
 picture: bluebook

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resource
 title: Sample Texts
 categories: resources
 picture: books

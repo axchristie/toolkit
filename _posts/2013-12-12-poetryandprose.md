@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resource
 title: Poetry and Prose
 categories: resources
 picture: poetry

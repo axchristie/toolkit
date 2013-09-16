@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resource
 title: Grammar and Punctuation
 categories: resources
 picture: typecase

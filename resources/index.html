@@ -1,0 +1,14 @@
+---
+layout: resources
+title: "CiTES: A toolbox for digital pedagogy"
+---
+
+<div class="menu">
+<section id="grid">
+    {% for post in site.posts %}
+    	   {% if post.categories contains 'resources' %}
+			<a class="tile {{ post.picture }}" href="{{ site.baseurl }}{{ post.url }}"><div class="button"><p>{{ post.title }}</p></div></a>
+			{% endif %}
+    {% endfor %}
+</section>
+</div>

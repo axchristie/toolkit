@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resource
 title: Writing Strategies
 categories: resources
 picture: feather

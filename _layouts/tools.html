@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="{{ site.baseurl}}/css/syntax.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="{{ site.baseurl}}/css/main3.css">
+        <link rel="stylesheet" href="{{ site.baseurl}}/css/style.css">
 
 		<!-- Web Fonts -->
 		<link href='http://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' 			type='text/css'><type='text/css'>   
@@ -18,7 +18,7 @@
 		 <script src="//use.edgefonts.net/abel.js"></script>  
 		 <script src="//use.edgefonts.net/pt-sans-narrow.js"></script>
 
-		 
+		<!-- Favicon -->		 
 		 <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico">
 
     </head>
@@ -27,27 +27,30 @@
         <div class="container">
           <div class="site">
             <div class="header">
-	            <h0>CiTES</h0><h01>BETA</h01><br>
-            <ha>A toolbox for digital pedagogy in composition, rhetoric, and literature</ha><br>
+	            <h0>{{ site.name }}</h0><h01>{{ site.subtitle }}</h01><br>
+            <ha>{{ site.description }}</ha><br>
             <div class="pad">
-            	<h11><a class="extra" href="{{ site.baseurl }}/">welcome</a>
-				<a class="extra" href="{{ site.baseurl }}/resources.html">online teaching resources</a>
-				<h1 class="title"><a href="{{ site.baseurl }}/tools.html">tools</a></h1></h11>
+            	<h11>
+            	<a class="extra" href="{{ site.baseurl }}/">{{ site.page1 }}</a>
+				<a class="extra" href="{{ site.baseurl }}/resources/">{{ site.page2 }}</a>
+				<h1 class="title"><a href="{{ site.baseurl }}/tools/">{{ site.page3 }}</a></h1>
+				<a class="extra" href="{{ site.baseurl }}/templates/">{{ site.page4 }}</a>
+				</h11>
             </div>
-            </div>
-          
-
+            </div> 
 
                 {{ content }}
-
+	            
 
             <div class="footer">
               <div class="contact">
                 <p>
-                  Powered by <a href="https://github.com/axchristie/test/tree/gh-pages">GitHub</a>              &nbsp; &nbsp; &nbsp; &nbsp; University of Victoria 2013
+                  Powered by <a href="https://github.com/axchristie/test/tree/gh-pages">GitHub</a>              &nbsp; &nbsp; &nbsp; &nbsp; University of Victoria 2013<p>
                 </p>
               </div>
+              <div>
               </div>
+            </div>
           </div>
         </div> <!-- /container -->
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tool
 title: Voyant Tools
 categories: tools
 picture: voyant
@@ -8,7 +8,7 @@ picture: voyant
 ##Voyant Tools <span class="arrowh2"></span>
 ###[Start teaching with Voyant](http://docs.voyant-tools.org/tools/) <span class="arrowh3"></span>
 
-![](../assets/chart.png)
+![](../assets/images/post/chart.png)
 
 ###Overview <span class="arrowh3"></span>
 
@@ -32,7 +32,7 @@ This example deals with Shakespeare's "Measure for Measure." Collect different p
 
 Angelo's passions (embodied)
 
-![](../assets/CirrusAngelo.png)
+![](../assets/images/post/CirrusAngelo.png)
 
 <!--	Exported from http://voyeurtools.org/.
 	Please note that this is an early version and the API may change.
@@ -50,7 +50,7 @@ Angelo's passions (embodied)
 
 Isabella's virtue (enskied)
 
-![](../assets/CirrusIsabella.png)
+![](../assets/images/post/CirrusIsabella.png)
 
 <!--	Exported from http://voyeurtools.org/.
 	Please note that this is an early version and the API may change.
@@ -75,7 +75,7 @@ Use the [Bubblelines](http://voyeurtools.org/tool/Bubblelines/) or [Corpus Term 
 
 Visualize word trends in Jane Austen's *Pride and Prejudice* to compare the relationship between money, marriage, and wealth. Is there a relationship between marriage and money in the novel. If so, what evidence exists to characterize it? Why does wealth deviate from the observed trend? Is there a reason why references to wealth only occur at certain points in the novel?
 
-![](../assets/TrendsAusten.png)
+![](../assets/images/post/TrendsAusten.png)
 
 <!--	Exported from http://voyeurtools.org/.
 	Please note that this is an early version and the API may change.
