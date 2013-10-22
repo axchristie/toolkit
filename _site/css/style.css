@@ -25,6 +25,7 @@ body {
   font-size: 14px;
   text-align: center;
   min-height: 100%;
+  margin-bottom: 50px;
 }
 
 p { margin: 1em 0; }
@@ -237,9 +238,10 @@ margin-right: 5%;
 }
 
 #grid {
-	width: 70%;
+	width: 900px;
 	margin: 30px auto 30px auto;
 	height: 100%;
+	overflow: auto;
 }
 
 #grid a:hover {
