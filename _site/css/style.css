@@ -24,6 +24,7 @@ body {
   font-family: Raleway, sans-serif;
   font-size: 14px;
   text-align: center;
+  min-height: 100%;
 }
 
 p { margin: 1em 0; }
@@ -324,6 +325,15 @@ ul.posts span {
 	background-color: rgba(255,255,255,0.5);
 	padding-left: 10px;
 	padding-right: 10px;
+	
+	animation-name: fadeIn;
+	-webkit-animation-name: fadeIn;	
+
+	animation-duration: .5s;	
+	-webkit-animation-duration: .5s;
+
+	animation-timing-function: ease-in-out;	
+	-webkit-animation-timing-function: ease-in-out;	
 }
 
 .box h1{
@@ -368,7 +378,7 @@ ul.posts span {
 	border-radius: 5px;
 	background-color: rgba(255,255,255,0.5);
 	margin-top: 5%;
-	width: 800px;
+	width: 950px;
 	margin-left: auto;
 	 margin-right: auto;
 	 box-shadow: 1px 0px 10px 2px black;
@@ -396,7 +406,7 @@ ul.posts span {
   display: inline-block;
   color: midnightblue;
   font-family: abel, sans-serif;
-  font-size: 25px;
+  font-size: 30px;
   margin-left: 10px;
   margin-right: 10px;
   background-color: rgba(1,1,1,0.2);
@@ -425,7 +435,7 @@ ul.posts span {
   display: inline-block;
   color: midnightblue;
   font-family: abel, sans-serif;
-  font-size: 26px;
+  font-size: 30px;
   background-color: rgba(1,1,1,0.2);
   box-shadow: 1px 1px 2px 2px black;
   border-radius: 5px;
@@ -462,13 +472,12 @@ ha{
 /* Footer */
 
 .site .footer {
-	position: absolute;
   border-top: 1px solid black;
   width: 100%;
   height: 100%;
   background-color: grey;
   font-size: 80%;
-  position: static;
+  position: fixed;
   bottom: 0;
   height: 60px;
 }
