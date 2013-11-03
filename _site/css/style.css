@@ -121,7 +121,7 @@ h1 { margin-bottom: 1em; }
 .arrowh2 {  
      width: 0; height: 0;  
      line-height: 0;  
-     border-left: 32px solid transparent;  
+     border-left: 34px solid transparent;  
      border-top: 20px solid #A0000F;  
      top: 100%;  
      left: -1px;  
@@ -131,7 +131,7 @@ h1 { margin-bottom: 1em; }
 .arrowh3 {  
      width: 0; height: 0;  
      line-height: 0;  
-     border-left: 22px solid transparent;  
+     border-left: 24px solid transparent;  
      border-top: 17px solid black;  
      top: 100%;  
      left: -1px;  
@@ -141,7 +141,7 @@ h1 { margin-bottom: 1em; }
 .arrowh4 {  
      width: 0; height: 0;  
      line-height: 0;  
-     border-left: 15px solid transparent;  
+     border-left: 17px solid transparent;  
      border-top: 15px solid #006561;  
      top: 100%;
      left: 1px;  
