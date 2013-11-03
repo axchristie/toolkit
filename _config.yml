@@ -1,6 +1,6 @@
-name: CiTE
+name: lemma
 subtitle: Beta
-description: A toolbox for digital pedagogy in composition, rhetoric, and literature
+description: Units for digital pedagogy in composition, rhetoric, and literature.
 pygments: true
 permalink: none
 baseurl: /test
