@@ -12,6 +12,16 @@
   padding: 0;
 }
 
+.highlight{
+	background: rgba(0, 0, 0, .15);
+	border-radius: 5px;
+	padding: 15px;
+	box-shadow: inset 0px 1px 1px 1px black;
+	overflow: auto;
+	display: inline-block;
+	width: 800px;
+}
+
 html, body {    height: 100&#37;; margin: 0; padding: 0; }
 
 html {
@@ -99,6 +109,18 @@ a:hover{
 }
 
 /*link styling for post content */
+
+.foot a:link{
+	color: midnightblue;
+}
+
+.foot a:visited{
+	color: midnightblue;
+}
+
+.foot a:hover{
+	color: black;
+}
 
 .content a:link {
 	text-decoration: none;

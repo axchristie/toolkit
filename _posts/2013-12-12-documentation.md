@@ -17,6 +17,7 @@ CC license
 
 ####Teaching Resources <span class="arrowh4"></span>
 
+
 ####Online Tools <span class="arrowh4"></span>
 
 ###Contributing<span class="arrowh3"></span>
@@ -25,8 +26,24 @@ CC license
 
 ####Add a new teaching resource <span class="arrowh4"></span>
 
+{% highlight html %}
+* [title](url)
+
+{% endhighlight %}
+
+For instance, a link to [Purdue OWL: Close Reading Strategies](http://owl.english.purdue.edu/owl/resource/616/01/) is written in markdown as the following.
+
+
+{% highlight html%}
+* [Purdue OWL: Close Reading Strategies](http://owl.english.purdue.edu/owl/resource/616/01/)
+{% endhighlight %}
+
 ####Add a new online tool <span class="arrowh4"></span>
 
 ###Online<span class="arrowh3"></span>
 
 ####View our repository on GitHub <span class="arrowh4"></span>
+
+####Create your own teaching repository <span class="arrowh4"></span>
+
+####Create your own teaching website <span class="arrowh4"></span>
