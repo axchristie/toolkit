@@ -25,8 +25,11 @@ body {
   font-size: 14px;
   text-align: center;
   min-height: 100%;
-  margin-bottom: 50px;
-}
+	width: 100%;
+	max-width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+	}
 
 p { margin: 1em 0; }
 
@@ -48,6 +51,7 @@ img {
 
 div.boxes{
 	width: 100%;
+	text-align: justify;
 }
 
 div.wrapper{
@@ -121,7 +125,7 @@ h1 { margin-bottom: 1em; }
 .arrowh2 {  
      width: 0; height: 0;  
      line-height: 0;  
-     border-left: 34px solid transparent;  
+     border-left: 32px solid transparent;  
      border-top: 20px solid #A0000F;  
      top: 100%;  
      left: -1px;  
@@ -131,7 +135,7 @@ h1 { margin-bottom: 1em; }
 .arrowh3 {  
      width: 0; height: 0;  
      line-height: 0;  
-     border-left: 24px solid transparent;  
+     border-left: 22px solid transparent;  
      border-top: 17px solid black;  
      top: 100%;  
      left: -1px;  
@@ -141,7 +145,7 @@ h1 { margin-bottom: 1em; }
 .arrowh4 {  
      width: 0; height: 0;  
      line-height: 0;  
-     border-left: 17px solid transparent;  
+     border-left: 15px solid transparent;  
      border-top: 15px solid #006561;  
      top: 100%;
      left: 1px;  
@@ -169,7 +173,7 @@ h2{
 	-webkit-animation-duration: 1.5s;
 
 	animation-timing-function: ease-out;	
-	-webkit-animation-timing-function: ease-out;	
+	-webkit-animation-timing-function: ease-out;
 
 	transform-origin: 0% 0%;
 	-ms-transform-origin: 0% 0%;
@@ -312,7 +316,8 @@ ul.posts span {
 	margin-top: .5em;
 	margin-bottom: .5em;
 	float: left;
-	text-align: justify;
+	text-align: left;
+	word-spacing: 10px;
 	margin-left: 15%;
 	margin-right: 15%;
 	max-width: 1300px;
@@ -324,14 +329,16 @@ ul.posts span {
 
 .box{
 	float: left;
+	display: inline-block;
 	margin-left: 10%;
 	margin-bottom: 5%;
 	border-radius: 5px;
 	width: 300px;
-	height: 350px;
+	height: 400px;
 	background-color: rgba(255,255,255,0.5);
 	padding-left: 10px;
 	padding-right: 10px;
+	overflow: hidden;
 	
 	animation-name: fadeIn;
 	-webkit-animation-name: fadeIn;	
@@ -362,7 +369,7 @@ ul.posts span {
 	color: black;
 	text-align: left;
 	font-family: helvetica;
-	font-size: 24px;
+	font-size: 20px;
 }
 
 
@@ -394,6 +401,7 @@ ul.posts span {
 	background-color: rgba(255,255,255,0.5);
 	margin-top: 5%;
 	width: 950px;
+	position: block;
 	margin-left: auto;
 	 margin-right: auto;
 	 box-shadow: 1px 0px 10px 2px black;
@@ -403,6 +411,7 @@ ul.posts span {
 	margin-left: 1em;
 	margin-right: 1em;
 }
+
 
 .site .header a {
   font-weight: bold;
@@ -491,8 +500,8 @@ ha{
 /* Footer */
 
 .foot{
-	float: left;
 	width: 80%;
+	max-width: 1920px;
 	margin-left: auto;
 	margin-right: auto;
 	box-shadow: 1px 1px 5px 5px black;

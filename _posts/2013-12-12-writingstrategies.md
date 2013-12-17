@@ -29,15 +29,33 @@ picture: feather
 
 * [UVic Research Tips Central](http://library.uvic.ca/instruction/research/index.html)
 
+* [Funny Image on Comma Use](http://www.wordswithdummies.com/eats-shoots-and-leaves/)
+
+###Research Tools and Techniques
+
 * [Internet Detective: Tutorial for Online Research](http://www.vtstutorials.ac.uk/detective/index.html)
 
-####Video: Proofreading <span class="arrowh4"></span>
+* [Purdue OWL: MLA Style](http://owl.english.purdue.edu/owl/resource/747/01/)
+
+####Proofreading <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/OonDPGwAyfQ&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OonDPGwAyfQ&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-####Video: Incorporating Quotations <span class="arrowh4"></span>
+####Incorporating Quotations <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/pe9tV6gVfdM&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pe9tV6gVfdM&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+
+####How to Make a Mind Map <span class="arrowh4"></span>
+
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/v8_H42Z9wxA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/v8_H42Z9wxA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+
+###Resources for Exam Writing <span class="arrowh3"></span>
+
+####In-Class Essays <span class="arrowh4"></span>
+
+* [Improving In-Class Writing](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/exam_writing/Improving_In-Class_Writing.pdf?raw=true)
+
+* [In-Class Essay Writing Strategies](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/exam_writing/in-class_essay_writing_strategies.pdf?raw=true)
 
 ###Citation <span class="arrowh3"></span>
 

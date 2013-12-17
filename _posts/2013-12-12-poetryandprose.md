@@ -13,6 +13,14 @@ picture: poetry
 
 * [Graph of Ways of Approaching a Literary Text](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/approaches_to_lit/approach_graph.pdf?raw=true)
 
+* [Purdue OWL: Close Reading Strategies](http://owl.english.purdue.edu/owl/resource/616/01/)
+
+* [Close Reading Poetry Site](http://web.uvic.ca/~englblog/closereading/?author=2)
+
+####What is Close Reading? <span class="arrowh4"></span>
+
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+
 ###Poetry <span class="arrowh3"></span>
 
 
@@ -22,17 +30,21 @@ picture: poetry
 
 * [Glossary of Terms for Poetry](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/poetry/Poetryglossary.pdf?raw=true)
 
-####Video: Introduction to Scansion <span class="arrowh4"></span>
+####Introduction to Scansion <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/htlVSAtpfbo&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/htlVSAtpfbo&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-####Video: Introduction to Metaphor <span class="arrowh4"></span>
+####Introduction to Metaphor <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/omLXKYNxVZA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/omLXKYNxVZA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-####Video: Introduction to Rhyme <span class="arrowh4"></span>
+####Introduction to Rhyme <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/JbJL97ep2IA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JbJL97ep2IA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+
+####Poetry Makes Nothing Happen <span class="arrowh4"></span>
+
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/nDwTjPsG4b0&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nDwTjPsG4b0&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
 ###Prose <span class="arrowh3"></span>
 
@@ -44,14 +56,14 @@ picture: poetry
 
 * [Elements of Fiction Website](http://bcs.bedfordstmartins.com/Virtualit/fiction/elements.asp?e=1)
 
-####Video: Rushdie on Fiction Versus Nonfiction <span class="arrowh4"></span>
+####Rushdie on Fiction Versus Nonfiction <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/2Z2gDg-WzyA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2Z2gDg-WzyA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-####Video: Gauer on Fiction Versus Nonfiction <span class="arrowh4"></span>
+####Gauer on Fiction Versus Nonfiction <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/ahPc9KMeaOw&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ahPc9KMeaOw&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-####Video: Binchy on Short Stories Versus Novels <span class="arrowh4"></span>
+####Binchy on Short Stories Versus Novels <span class="arrowh4"></span>
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/GpV5I8ckq0c&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GpV5I8ckq0c&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
