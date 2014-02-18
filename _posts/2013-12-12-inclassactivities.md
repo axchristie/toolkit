@@ -19,17 +19,17 @@ picture: hamlet
 
 ###Writing Prompts <span class="arrowh3"></span>
 
-* [Practice In-Class Essay One](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/Practice%20in-class%20essay.docx?raw=true)
+* [Practice In-Class Essay One](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/Practice%20in-class%20essay.docxx?raw=true)
 
-* [Practice In-Class Essay Two](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/Practice%20in-class%20essay%202.docx?raw=true)
+* [Practice In-Class Essay Two](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/Practice%20in-class%20essay%202.docxx?raw=true)
 
-* [Spivak Quotation with Response Questions](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/Spivak-1.doc?raw=true)
+* [Spivak Quotation with Response Questions](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/Spivak-1.docx?raw=true)
 
-* [Writing Prompt on Mansfield's "Bliss"](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/bliss%20prompt.docx?raw=true )
+* [Writing Prompt on Mansfield's "Bliss"](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/bliss%20prompt.docxx?raw=true )
 
 ####Diagnostic Essay: Nick Mount on Intellectual Citizenship <span class="arrowh4"></span>
 
-* [Writing Prompt](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/diagnostic_mount.docx?raw=true)
+* [Writing Prompt](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/diagnostic_mount.docxx?raw=true)
 
 <br>
 

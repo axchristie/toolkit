@@ -11,7 +11,7 @@ picture: feather
 
 * [Strategies for Preparing a Response to an Article](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/response_to_an_article.pdf?raw=true)
 
-* [Recipe for Analyzing a Passage From a Text](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/Recipe_for_analyzing.doc)
+* [Recipe for Analyzing a Passage From a Text](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/Recipe_for_analyzing.docx)
 
 * [Strategies for Writing a Paragraph Using an Affective Approach](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/affect.pdf?raw=true)
 
@@ -21,7 +21,7 @@ picture: feather
 
 * [Sentence Errors Presentation](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/146SentenceErrorstoPost.pptx?raw=true)
 
-* [How to Present Your Essay](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/essaypresentation.doc?raw=true)
+* [How to Present Your Essay](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/essaypresentation.docx?raw=true)
 
 * [Wordiness, Wordiness, Wordiness](http://web.uvic.ca/~gkblank/wordiness.html)
 
@@ -69,7 +69,7 @@ picture: feather
 
 ###Plagiarism <span class="arrowh3"></span>
 
-* [How to Prevent Plagiarism](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/Avoiding_Plagiarism_allan_mitchell.doc?raw=true)
+* [How to Prevent Plagiarism](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/Avoiding_Plagiarism_allan_mitchell.docx?raw=true)
 
 * [UVic Plagiarism Page](http://library.uvic.ca/instruction/cite/plagiarism.html)
 

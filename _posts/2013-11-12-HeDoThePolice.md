@@ -14,6 +14,8 @@ picture: eliot
 
 He Do the Police in Different Voices provides an open access edition of T.S. Eliot's "The Waste Land" that indicates instances of foreign speech, character speech, repetition, and other textual features. The tool also offers a venue for marking shifts in speakers in the poem, exploring "The Waste Land" as a polyvocal work. Users can view shifts in vocality as determined by computational methods and by crowdsourcing, as well as adding their own interpretation online.
 
+Another website, entitled [The Brown Stocking](http://brownstocking.org/) offers a similar approach to reading Virginia Woolf's *To The Lighthouse*.
+
 ###Documentation <span class="arrowh3"></span>
 
 An overview of the entire site is available at the project's [home page](http://hedothepolice.org/) and instructions for marking the text for shifts in vocality are available [here](http://hedothepolice.org/yoursay/).
