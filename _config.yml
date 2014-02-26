@@ -5,7 +5,7 @@ pygments: true
 permalink: none
 baseurl: /test
 
-page1: introduction
+page1: welcome
 page2: documentation
 page3: teaching resources
 page4: online tools
