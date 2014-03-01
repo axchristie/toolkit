@@ -19,7 +19,7 @@
 	box-shadow: inset 0px 1px 1px 1px black;
 	overflow: auto;
 	display: inline-block;
-	width: 800px;
+	max-width: 600px;
 	height: auto;
 	word-wrap: break-word;
 }
@@ -70,12 +70,19 @@ div.boxes{
 	max-width: 1200px;
 }
 
+div.set{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
 div.wrapper{
   background-color: rgba(255,255,255,1);
-  width: 900px;
-  margin-top: 10px;
+  max-width: 850px;
+  margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 28px;
+  padding-top: 5px;
   padding-right: 3em;
   border-radius: 5px;
 }
@@ -83,6 +90,7 @@ div.wrapper{
 table.wrapper{
  width: 98%;
  margin-left: 3%;
+ max-width: inherit;
 }
 
 /* Link Styling */
@@ -262,11 +270,6 @@ h4{
 
 }
 
-p.wrapper{
-margin-left: 5%;
-margin-right: 5%;
-}	
-
 /* Menu Styling: alter this to chance layout of menu */
 
 .menu{
@@ -426,7 +429,7 @@ ul.posts span {
 	border-radius: 5px;
 	background-color: rgba(255,255,255,0.5);
 	margin-top: 5%;
-	max-width: 1000px;
+	max-width: 850px;
 	margin-left: auto;
 	 margin-right: auto;
 	 box-shadow: 1px 0px 10px 2px black;
@@ -435,7 +438,7 @@ ul.posts span {
 .pad{
 	padding-left: 25px;
 	padding-right: 25px;
-	padding-bottom: 25px;
+	padding-bottom: 10px;
 }
 
 
