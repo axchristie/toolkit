@@ -62,8 +62,12 @@ img {
 }
 
 div.boxes{
-	width: 100%;
+
 	text-align: justify;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1200px;
 }
 
 div.wrapper{
@@ -330,22 +334,19 @@ ul.posts span {
 	margin-top: 80px;
 	margin-bottom: 80px;
 	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
 	box-shadow: inset 1px 1px 5px 7px black;
 	background-color: rgba(0,0,0,0.5);
 }
 
 .pan{
-	margin-top: .5em;
-	margin-bottom: .5em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	max-width: 1400px;
 	float: left;
 	text-align: left;
-	word-spacing: 10px;
-	margin-left: 15%;
-	margin-right: 15%;
-	max-width: 1300px;
-	font-size: 50px;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size: 40px;
 	color: white;
 	line-height: 1em;
 }
@@ -354,7 +355,8 @@ ul.posts span {
 .box{
 	float: left;
 	display: inline-block;
-	margin-left: 10%;
+	margin-left: 30px;
+	margin-right: 30px;
 	margin-bottom: 5%;
 	border-radius: 5px;
 	width: 300px;
@@ -424,16 +426,16 @@ ul.posts span {
 	border-radius: 5px;
 	background-color: rgba(255,255,255,0.5);
 	margin-top: 5%;
-	width: 900px;
-	position: block;
+	max-width: 1000px;
 	margin-left: auto;
 	 margin-right: auto;
 	 box-shadow: 1px 0px 10px 2px black;
 }
 
 .pad{
-	margin-left: 1em;
-	margin-right: 1em;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
 }
 
 
@@ -445,8 +447,7 @@ ul.posts span {
 .site .header h1.title {
   padding: 5px;
   display: inline-block;
-  margin-left: 10px;
-  margin-right: 10px; 
+
   margin-top: 2em;
   margin-bottom: 2em;
 }
@@ -457,8 +458,7 @@ ul.posts span {
   color: midnightblue;
   font-family: abel, sans-serif;
   font-size: 27px;
-  margin-left: 10px;
-  margin-right: 10px;
+
   background-color: rgba(1,1,1,0.2);
   box-shadow: 1px 1px 2px 2px black;
   border-radius: 5px;
@@ -476,8 +476,16 @@ ul.posts span {
   padding: 5px;
   display: inline-block;
   color: indigo;
-  margin-left: 10px;
-  margin-right: 10px;
+
+  font-family: abel, sans-serif;
+  font-size: 25px;
+}
+
+.site .header a.last {
+  padding: 5px;
+  display: inline-block;
+  color: indigo;
+
   font-family: abel, sans-serif;
   font-size: 25px;
 }
@@ -498,23 +506,21 @@ h0{
 	font-weight: 400;
 	color: white;
 	font-size: 80px;
-	z-index: 99;
-}
+	}
 
 h01{
 	font-variant: bold;
 	font-family: 'Port Lligat Slab', serif;
 	color: #666;
 	font-size: 20px;
-	z-index: 99;	
 }
 
 ha{
+	margin-left: -20px;	
 	font-family: 'Port Lligat Slab';
 	color: black;
-	font-size: 20px;
+	font-size: 18px;
 	padding-left: 3em;
-	z-index: 88;
 }
 
 .site .meta {
