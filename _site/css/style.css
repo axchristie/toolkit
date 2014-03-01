@@ -151,6 +151,27 @@ a:hover{
 	color: black;
 }
 
+.return a:link{
+	color: black;
+	text-decoration: none;
+}
+
+.return a:visited{
+	color: black;
+	text-decoration: none;
+}
+
+.return a:hover{
+	color: gray;
+}
+
+.return{
+	font-family: 'Raleway';
+	text-align: center;
+	font-variant: small-caps;
+	font-size: 24px;
+}
+
 /* Headers, Banners */
 
 h1, h2, h3, h4, h5, h6 {
