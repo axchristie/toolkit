@@ -62,7 +62,6 @@ img {
 }
 
 div.boxes{
-
 	text-align: justify;
 	display: block;
 	margin-left: auto;
@@ -294,8 +293,8 @@ h4{
 /* Menu Styling: alter this to chance layout of menu */
 
 .menu{
-	overflow: auto;
 	min-height: 600px;
+	overflow: auto;
 }
 
 #grid {
@@ -374,7 +373,6 @@ ul.posts span {
 	color: white;
 	line-height: 1em;
 }
-
 
 .box{
 	float: left;
@@ -529,8 +527,7 @@ h0{
 	font-family: 'Port Lligat Slab';
 	font-weight: 400;
 	color: white;
-	font-size: 4em;
-	max-width: 90%;
+	font-size: 60px;
 	}
 
 h01{
