@@ -367,11 +367,12 @@ ul.posts span {
 	max-width: 1400px;
 	float: left;
 	text-align: left;
-	margin-left: 10%;
+	margin-left: 15%;
 	margin-right: 10%;
 	font-size: 40px;
 	color: white;
 	line-height: 1em;
+	font-variant: small-caps;
 }
 
 .box{
@@ -409,7 +410,6 @@ ul.posts span {
 	color: white;
 	text-align: left;
 	font-family: helvetica;
-	font-variant: small-caps;
 	font-size: 40px;
 }
 
