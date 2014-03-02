@@ -455,8 +455,8 @@ ul.posts span {
 }
 
 .pad{
-	padding-left: 25px;
-	padding-right: 25px;
+	padding-left: 5%;
+	padding-right: 5%;
 	padding-bottom: 10px;
 }
 
@@ -469,7 +469,6 @@ ul.posts span {
 .site .header h1.title {
   padding: 5px;
   display: inline-block;
-
   margin-top: 2em;
   margin-bottom: 2em;
 }
@@ -479,8 +478,7 @@ ul.posts span {
   display: inline-block;
   color: midnightblue;
   font-family: abel, sans-serif;
-  font-size: 27px;
-
+  font-size: 25px;
   background-color: rgba(1,1,1,0.2);
   box-shadow: 1px 1px 2px 2px black;
   border-radius: 5px;
@@ -498,25 +496,23 @@ ul.posts span {
   padding: 5px;
   display: inline-block;
   color: indigo;
-
   font-family: abel, sans-serif;
-  font-size: 25px;
+  font-size: 23px;
 }
 
 .site .header a.last {
   padding: 5px;
   display: inline-block;
   color: indigo;
-
   font-family: abel, sans-serif;
-  font-size: 25px;
+  font-size: 23px;
 }
 
 .site .header a.extra:hover {
   display: inline-block;
   color: midnightblue;
   font-family: abel, sans-serif;
-  font-size: 27px;
+  font-size: 25px;
   background-color: rgba(1,1,1,0.2);
   box-shadow: 1px 1px 2px 2px black;
   border-radius: 5px;
