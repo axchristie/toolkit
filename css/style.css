@@ -455,9 +455,10 @@ ul.posts span {
 }
 
 .pad{
+	padding-top: 15px;
 	padding-left: 5%;
 	padding-right: 5%;
-	padding-bottom: 10px;
+	padding-bottom: 15px;
 }
 
 
@@ -469,8 +470,6 @@ ul.posts span {
 .site .header h1.title {
   padding: 5px;
   display: inline-block;
-  margin-top: 2em;
-  margin-bottom: 2em;
 }
 
 .site .header h1.title a {
