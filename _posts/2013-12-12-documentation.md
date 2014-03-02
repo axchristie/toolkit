@@ -68,7 +68,7 @@ For instance, a link to [Purdue OWL: Close Reading Strategies](http://owl.englis
 Youtube videos can be added in markdown using the following. The string between "/v/" and "&amp" (here, "92eAN0Bjd84") is taken from the original youtube URL.
 
 {% highlight html%}
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: inherit;"></embed></object>
 {% endhighlight %}
 
 ####Add a file <span class="arrowh4"></span>

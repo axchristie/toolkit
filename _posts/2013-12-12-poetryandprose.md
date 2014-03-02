@@ -19,7 +19,7 @@ picture: poetry
 
 ####What is Close Reading? <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
 
 ###Poetry <span class="arrowh3"></span>
 
@@ -32,19 +32,19 @@ picture: poetry
 
 ####Introduction to Scansion <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/htlVSAtpfbo&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/htlVSAtpfbo&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/htlVSAtpfbo&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/htlVSAtpfbo&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
 
 ####Introduction to Metaphor <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/omLXKYNxVZA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/omLXKYNxVZA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/omLXKYNxVZA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/omLXKYNxVZA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
 
 ####Introduction to Rhyme <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/JbJL97ep2IA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JbJL97ep2IA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/JbJL97ep2IA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JbJL97ep2IA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
 
 ####Poetry Makes Nothing Happen <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/nDwTjPsG4b0&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nDwTjPsG4b0&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/nDwTjPsG4b0&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nDwTjPsG4b0&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
 
 ###Prose <span class="arrowh3"></span>
 
@@ -58,12 +58,12 @@ picture: poetry
 
 ####Rushdie on Fiction Versus Nonfiction <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/2Z2gDg-WzyA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2Z2gDg-WzyA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/2Z2gDg-WzyA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2Z2gDg-WzyA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
 
 ####Gauer on Fiction Versus Nonfiction <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/ahPc9KMeaOw&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ahPc9KMeaOw&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/ahPc9KMeaOw&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ahPc9KMeaOw&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
 
 ####Binchy on Short Stories Versus Novels <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/GpV5I8ckq0c&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GpV5I8ckq0c&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/GpV5I8ckq0c&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GpV5I8ckq0c&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>

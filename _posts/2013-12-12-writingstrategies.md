@@ -39,15 +39,15 @@ picture: feather
 
 ####Proofreading <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/OonDPGwAyfQ&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OonDPGwAyfQ&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/OonDPGwAyfQ&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OonDPGwAyfQ&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
 
 ####Incorporating Quotations <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/pe9tV6gVfdM&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pe9tV6gVfdM&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/pe9tV6gVfdM&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pe9tV6gVfdM&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
 
 ####How to Make a Mind Map <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/v8_H42Z9wxA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/v8_H42Z9wxA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/v8_H42Z9wxA&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/v8_H42Z9wxA&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
 
 ###Resources for Exam Writing <span class="arrowh3"></span>
 
@@ -75,4 +75,4 @@ picture: feather
 
 ####Plagiarism Video <span class="arrowh4"></span>
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/VnTPv9PtOoo&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VnTPv9PtOoo&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/VnTPv9PtOoo&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VnTPv9PtOoo&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
