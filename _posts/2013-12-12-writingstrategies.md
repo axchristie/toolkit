@@ -11,7 +11,7 @@ picture: feather
 
 * [Strategies for Preparing a Response to an Article](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/response_to_an_article.pdf?raw=true)
 
-* [Recipe for Analyzing a Passage From a Text](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/Recipe_for_analyzing.docx)
+* [Recipe for Analyzing a Passage From a Text](https://github.com/axchristie/toolkit/blob/gh-pages/assets/docs/writing_strategies/Recipe_for_analyzing.docx?raw=true)
 
 * [Strategies for Writing a Paragraph Using an Affective Approach](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/writing_strategies/affect.pdf?raw=true)
 
