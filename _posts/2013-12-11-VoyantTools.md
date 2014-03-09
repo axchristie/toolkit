@@ -12,7 +12,7 @@ picture: voyant
 
 ###Overview <span class="arrowh3"></span>
 
-Voyant Tools is a suite of online text analysis software created by Stéfan Sinclair and Geoffrey Rockwell. Uses for the tools include tracking word frequency, word collocation, and visualizing trends in texts both large and small (charting instances of diction, repeated concepts, characters, etc.). Voyant can be used to prompt close reading, track trends across one or multiple novels, and visualize trends in student writing.
+Voyant Tools offers an online environment for text analysis. Uses for its growing suite of tools include tracking word frequency, word collocation, and visualizing trends in texts both large and small (charting instances of diction, repeated concepts, characters, etc.). Voyant can be used to prompt close reading, track trends across one or multiple novels, and visualize trends in student writing.
 
 ###Documentation <span class="arrowh3"></span>
 
