@@ -1,0 +1,16 @@
+name: English 210
+pygments: true
+permalink: none
+baseurl: /template
+subtitle: Cats in Literature
+
+page1: texts
+page2: activities
+page3: resources
+page4: contact
+
+delay2: "-webkit-animation-delay: .2s; -moz-animation-delay: .2s; -ms-animation-delay: 
+.2s; animation-delay: .2s;"
+delay4: "-webkit-animation-delay: .4s; -moz-animation-delay: .4s; -ms-animation-delay: .4s; animation-delay: .4s;"
+delay6: "-webkit-animation-delay: .6s; -moz-animation-delay: .6s; -ms-animation-delay: .6s; animation-delay: .6s;"
+delay8: "-webkit-animation-delay: .8s; -moz-animation-delay: .8s; -ms-animation-delay: .8s; animation-delay: .8s;"

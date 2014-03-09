@@ -1,0 +1,23 @@
+---
+layout: resources
+---
+
+<div class="sidebar">
+<ul>
+<li class="title"><p>{{ site.name }}: {{ site.subtitle }}</p></li>
+<li class=""><a href="{{ site.baseurl }}/index.html">{{ site.page1 }}</a></li>
+<li class=""><a href="{{ site.baseurl }}/digital/">{{ site.page2 }}</a></li>
+<li class="current"><a href="{{ site.baseurl }}/resources/">{{ site.page3 }}</a></li>
+<li class="animated flipInX" style="{{ site.delay2 }}"><a href="{{ site.baseurl }}/contact/contact.html">{{ site.page4 }}</a></li>
+</ul>
+</div>
+
+<div class="content">
+<section id="grid" class="animated fadeIn" style="{{ site.delay4 }}">
+    {% for post in site.posts %}
+    	   {% if post.categories contains 'resource' %}
+			<a class="tile {{ post.picture }}" href="{{ site.baseurl }}/{{ post.url }}"><div class="label"><p>{{ post.title }}</p></div></a>
+			{% endif %}
+    {% endfor %}
+</section>
+</div>
