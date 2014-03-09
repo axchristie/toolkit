@@ -9,13 +9,13 @@ picture: books
 
 ### Poetry <span class="arrowh3"></span>
 
-* [Death of a Naturalist](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/poetry/146DEATH_OF_A_NATURALIST.docxx?raw=true)
+* [Death of a Naturalist](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/poetry/146DEATH_OF_A_NATURALIST.docx?raw=true)
 
-* [Packing for the Future](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/poetry/146Packing_for_the_Future.docxx?raw=true)
+* [Packing for the Future](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/poetry/146Packing_for_the_Future.docx?raw=true)
 
 * [Dickinson Poems](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/poetry/146dickinson_poems.docx?raw=true)
 
-* [Tree](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/poetry/SP146Tree.docxx?raw=true)
+* [Tree](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/poetry/SP146Tree.docx?raw=true)
 
 * [Wallace Stevens's "The Motive for Metaphor"](http://www.cityintherain.com/poems/vitalx.html)
 

@@ -29,10 +29,10 @@ picture: focus
 
 ###Sample Student Analyses <span class="arrowh3"></span>
 
-* [Sample Student Analyses One](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/close_reading/146SampleStudentAnalyses.docxx?raw=true)
+* [Sample Student Analyses One](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/close_reading/146SampleStudentAnalyses.docx?raw=true)
 
 * [Sample Student Analyses Two](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/close_reading/146stusampleanalyses2009.docx?raw=true)
 
-* [Sample Student Analyses Three](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/close_reading/Two_Sample_Student_Analyses.docxx?raw=true)
+* [Sample Student Analyses Three](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/close_reading/Two_Sample_Student_Analyses.docx?raw=true)
 
-* [Sample Student In-Class Analyses](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/close_reading/146sampleinclassanlyses.docxx?raw=true)
+* [Sample Student In-Class Analyses](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/close_reading/146sampleinclassanlyses.docx?raw=true)
