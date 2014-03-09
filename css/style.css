@@ -548,6 +548,8 @@ ha{
 
 .foot{
 	width: 80%;
+	height: 100%;
+	min-height: 50px;
 	max-width: 1920px;
 	margin-left: auto;
 	margin-right: auto;
@@ -572,7 +574,6 @@ ha{
   font-size: 80%;
   position: fixed;
   bottom: 0;
-  height: 60px;
 }
 
 .site .footer .contact {
