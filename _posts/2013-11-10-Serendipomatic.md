@@ -12,7 +12,7 @@ picture: serendipomatic
 
 ###Overview <span class="arrowh3"></span>
 
-Serendip-o-matic is a fun and accessible online tool that links a section of written text to digital content hosted by libraries, museums, and archives. Not only is it a valuable resource for discovering new sources, but also for expanding the research materials already on hand. This fun tool emphasizes the discovery and exploration of online content.
+Serendip-o-matic is a fun and accessible online tool that links a section of written text to digital content hosted by libraries, museums, and archives. Not only is it a valuable resource for discovering new sources, but also for expanding the research materials already on hand. This fun tool emphasizes the discovery and exploration of scholarly content online.
 
 ###Documentation <span class="arrowh3"></span>
 

@@ -28,7 +28,7 @@ Use the [cirrus word cloud generator](http://voyeurtools.org/tool/Cirrus/) to vi
 
 ####Example <span class="arrowh4"></span>
 
-This example deals with Shakespeare's "Measure for Measure." Collect different passages which describe Angelo and Isabella, then visualize each collection of text as a word cloud. Ask students to consider what words are similar within each visualization and what the related words suggest about the characterization of Isabella and Angelo, respectively. Then ask students to compare the two characterizations by reading across both visualizations.
+This example deals with Shakespeare's "Measure for Measure." Collect different passages that describe Angelo and Isabella, then visualize each collection of text as a word cloud. Ask students to consider what words are similar within each visualization and what the related words suggest about the characterization of Isabella and Angelo, respectively. Then ask students to compare the two characterizations by reading across both visualizations.
 
 Angelo's passions (embodied)
 
