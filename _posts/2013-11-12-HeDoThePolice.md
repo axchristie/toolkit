@@ -6,6 +6,7 @@ picture: eliot
 ---
 
 ##He Do the Police in Different Voices <span class="arrowh2"></span>
+
 ###[Start teaching with He Do the Police](http://hedothepolice.org/) <span class="arrowh3"></span>
 
 ![](../assets/images/post/hedopolice.png)

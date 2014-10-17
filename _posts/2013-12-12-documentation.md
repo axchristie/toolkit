@@ -18,7 +18,8 @@ This site applies an open source philosophy to course development.
 Every year, teachers generate a wealth of teaching documents, lesson plans, and new approaches to pedagogy. Building and refining these materials over time is the result of conversations and collaborations amongst teachers. Yet these collaborative efforts are often limited by physical boundaries, confined to groups within home institutions and at conference meetings. What if we could use new forms of online interaction to improve our teaching together? This site aims to do just that. {{ site.name }} serves as a hub for sharing teaching documents and activities. It is designed to improve the effectiveness and accessibility of digital approaches to teaching while lowering the barrier of entry.
 
 ##Sharing<span class="arrowh2"></span>
-###Using the toolkit <span class="arrowh3"></span>
+
+###Using the toolkit<span class="arrowh3"></span>
 
 ####Teaching Resources <span class="arrowh4"></span>
 
@@ -29,6 +30,7 @@ Documents listed as teaching resources include lesson content (such as activity 
 Strategies for electronic approaches to teaching, including experiments in digital pedagogy, can be implemented using online tools in the classroom. Examples of these approaches include generating word clouds to prompt close reading and using online reading environments to identify areas of difficulty in an assigned text. The entry for each tool contains an overview (covering what the tool does), documentation (covering how the tool works), and a list of suggested uses in the classroom. Teachers are invited to share their success stories by adding new suggested activities for each tool.
 
 ##Contributing<span class="arrowh2"></span>
+
 ###Working with the teaching repository<span class="arrowh3"></span>
 
 All teaching content on the site is housed in our [public repository on GitHub](https://github.com/axchristie/test). Each page on this site corresponds to a file in the ["_posts" folder](https://github.com/axchristie/test/tree/gh-pages/_posts) of that repository; for instance, [here](https://github.com/axchristie/test/blob/gh-pages/_posts/2013-12-12-documentation.md) is the file for this very page.
@@ -107,3 +109,24 @@ One-word headers also work as html anchors.
 ##Teach in the cloud<span class="arrowh2"></span>
 
 Using Git and the GitHub client, the toolkit can be be deployed as a teaching cloud or  a teaching website hosted via GitHub pages. Use the repository to push updated teaching material to the cloud and access it from anywhere. Or take your teaching further by turning your repository into an open source teaching website, reusing the code from this website or by using a [website template](https://github.com/axchristie/test/tree/templates) from the "templates" fork. All code is designed for [GitHub Pages](http://pages.github.com/) and [Jekyll](http://jekyllrb.com/) with extensibility and reusability in mind. Comments and additions are welcome.
+
+##Inspirations<span class="arrowh2"></span>
+The field of digital pedagogy is a diverse and exciting one, and Pedagogy Toolkit draws inspiration from the following projects, journals, and organizations. Take a look at their fantastic work.
+
+[DHSI](http://dhsi.org/): [Digital Pedagogy](http://lmc.gatech.edu/~djakacki3/blog/2012/06/17/digital-pedagogy-at-dhsi-part-the-second/)
+
+[Digital Pedagogy Keywords](http://www.slideshare.net/rebeccadavis/digital-pedagogy-keywords)
+
+[DiRT Directory](http://dirtdirectory.org/)
+
+[HASTAC](http://www.hastac.org/): [The Pedagogy Project](http://www.hastac.org/pedagogy-project/pedagogy-project)
+
+[Hybrid Pedagogy](http://www.hybridpedagogy.com/)
+
+[JiTP](http://jitp.commons.gc.cuny.edu/): [Assignments](http://jitp.commons.gc.cuny.edu/category/assignments/)
+
+[Kairos](http://kairos.technorhetoric.net/)
+
+[Learning Through Digital Media](http://learningthroughdigitalmedia.net/): [Learning Toolkit](http://learningthroughdigitalmedia.net/a-digital-learning-tool-kit)
+
+And so many more...

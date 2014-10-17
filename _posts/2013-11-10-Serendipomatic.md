@@ -6,6 +6,7 @@ picture: serendipomatic
 ---
 
 ##Serendip-o-matic <span class="arrowh2"></span>
+
 ###[Start teaching with Serendip-o-matic](http://serendipomatic.org/) <span class="arrowh3"></span>
 
 ![](http://serendipomatic.org/static/img/serendip-o-matic.png)

@@ -6,6 +6,7 @@ picture: betterverse
 ---
 
 ##For Better For Verse <span class="arrowh2"></span>
+
 ###[Start teaching with For Better For Verse](http://prosody.lib.virginia.edu/) <span class="arrowh3"></span>
 
 ![](../assets/images/post/betterverse2.png)
