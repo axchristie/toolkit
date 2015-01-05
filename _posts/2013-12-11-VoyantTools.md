@@ -23,6 +23,12 @@ Detailed instructions are included with the Voyant Tools [documentation](http://
 
 ##Suggested Activities <span class="arrowh2"></span>
 
+###Voyant in Teaching <span class="arrowh3"></span>
+
+Voyant Tools documentation comes with an extensive list of pedagogical resources for Voyant, including course work, critical approaches to teaching, and course syllabuses. Scroll through the examples gallery at Voyant Tools Documentation to view these extensive resources.
+
+[View the examples gallery at Voyant Tools](http://docs.voyant-tools.org/about/examples-gallery/)
+
 ###Close reading at scale <span class="arrowh3"></span>
 
 Use the [cirrus word cloud generator](http://voyeurtools.org/tool/Cirrus/) to visualize two or more related scenes for close reading. Ask students first to identify word trends or patterns within each visualization and then to construct arguments that connect the similarities or differences between the two visualizations. Each visualization can draw from one passage or combine a number of related passages.

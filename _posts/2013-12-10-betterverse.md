@@ -17,7 +17,7 @@ For Better For Verse is an interactive website that teaches scansion and allows 
 
 ###Documentation <span class="arrowh3"></span>
 
-<embed width="560" height="315" src="//youtube.com/embed/BK3i-Z_KCoM"></embed>
+<embed width="560" height="315" src="//youtube.com/embed/BK3i-Z_KCoM">
 
 ##Suggested Activities <span class="arrowh2"></span>
 
