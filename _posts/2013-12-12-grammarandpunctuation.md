@@ -9,6 +9,8 @@ picture: typecase
 
 ###Grammar <span class="arrowh3"></span>
 
+* [Grammar Revision Exercise]({{ site.baseurl }}/assets/docs/grammar_and_punctuation/GrammarRevisionExercise.pdf) by [Samantha MacFarlane](https://twitter.com/snmacfarlane)
+
 * [Grammar Handout](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/grammar_and_punctuation/146GrammarHandout.docx?raw=true)
 
 * [Common Joiners Handout](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/grammar_and_punctuation/Commonjoiners.docx?raw=true)

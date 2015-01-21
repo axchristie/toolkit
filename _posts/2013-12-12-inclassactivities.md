@@ -19,6 +19,10 @@ picture: hamlet
 
 ###Writing Prompts <span class="arrowh3"></span>
 
+* [Writing diagnostic](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/135_Diagnostic.docx?raw=true) by [Samantha MacFarlane](https://twitter.com/snmacfarlane)
+
+* [Grammar Revision Exercise]({{ site.baseurl }}/assets/docs/grammar_and_punctuation/GrammarRevisionExercise.pdf) by [Samantha MacFarlane](https://twitter.com/snmacfarlane)
+
 * [Practice In-Class Essay One](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/Practice%20in-class%20essay.docx?raw=true)
 
 * [Practice In-Class Essay Two](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/in_class_activities/writing%20prompts/Practice%20in-class%20essay%202.docx?raw=true)

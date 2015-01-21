@@ -37,6 +37,18 @@ picture: feather
 
 * [Purdue OWL: MLA Style](http://owl.english.purdue.edu/owl/resource/747/01/)
 
+####Guide to Using Sources in Literary Study <span class="arrowh4"></span>
+
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/HJRhfusIHs0&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/HJRhfusIHs0&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
+
+by [Janine Utell](https://twitter.com/janineutell)
+
+####MLA Tutorial <span class="arrowh4"></span>
+
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/a8I4ES58JLc&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/a8I4ES58JLc&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
+
+by [Janine Utell](https://twitter.com/janineutell)
+
 ####Proofreading <span class="arrowh4"></span>
 
 <object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/OonDPGwAyfQ&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OonDPGwAyfQ&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: 100%;"></embed></object>
