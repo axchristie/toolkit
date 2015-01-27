@@ -9,7 +9,9 @@ picture: voyant
 
 ###[Start teaching with Voyant](http://docs.voyant-tools.org/tools/) <span class="arrowh3"></span>
 
-![](../assets/images/post/chart.png)
+<div class="responsiveDiv">
+<iframe src="http://voyeurtools.org/tool/Cirrus/?corpus=1364685340542.3762&query=&stopList=stop.en.taporware.txt&docId=d1364616655627.77bf5027-f91d-74d6-8207-e4e2e405faf2" class="responsiveFrame"></iframe>
+</div>
 
 ###Overview <span class="arrowh3"></span>
 
@@ -22,6 +24,18 @@ Voyant works with a range of file types, including plain text, RTF, XML, PDF, an
 Detailed instructions are included with the Voyant Tools [documentation](http://docs.voyant-tools.org/start/) and [screencast tutorials](http://docs.voyant-tools.org/videos/).
 
 ##Suggested Activities <span class="arrowh2"></span>
+
+###Essay revision with automated textual analysis <span class="arrowh3"></span>
+
+This exercise asks students to visualize and examine trends in their writing using Voyant. By visualizing their writing, students may examine key trends in their paper, determine whether commonly used words relate to their thesis, discover writing ticks, and develop systematic strategies for revising their paper.
+
+View [the assignment](http://lessonplans.dwrl.utexas.edu/content/essay-revision-automated-textual-analysis) by [Michael Widner](https://twitter.com/mwidner) via UT Austin's [Digital Writing & Research Lab](https://twitter.com/DWRL).
+
+###Building word clouds to generate search terms <span class="arrowh3"></span>
+
+Jeffrey Boruszak's exercise helps student generate an overview of their research topic by visualizing collected sources in Voyant. Ask students to generate a Voyant visualization using primary and secondary research sources; students may then discover meaningful topics and trends in their research as they move toward a topic. Additionally, students can use this exercise to generate new search terms as they continue to refine and build a corpus of research materials.
+
+View [the assignment](http://lessonplans.dwrl.utexas.edu/content/building-word-clouds-generate-search-terms) by Jeffrey Boruszak via UT Austin's [Digital Writing & Research Lab](https://twitter.com/DWRL).
 
 ###Voyant in Teaching <span class="arrowh3"></span>
 

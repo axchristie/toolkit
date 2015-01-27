@@ -633,6 +633,24 @@ ha{
   background-color: #333;
 }
 
+/* Responsive styling for iframes and embedded content */
+
+.responsiveDiv{
+position: relative;
+padding-bottom: 62.5%; /* 16:10 */
+padding-top: 25px;
+height: 0;
+}
+
+.responsiveFrame{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+
 /* Post Styling: alter this to change post content and to add new post images */
 
 .tile {
@@ -697,6 +715,18 @@ ha{
 
 .zotero{
 	background-image: url(../assets/images/buttons/zotero.png);
+}
+
+.NewRadial{
+	background-image: url(../assets/images/buttons/NewRadial.png);
+}
+
+.Juxta{
+	background-image: url(../assets/images/buttons/juxta_commons.jpg);
+}
+
+.Neatline{
+	background-image: url(../assets/images/buttons/neatline.jpg);	
 }
 
 .logo{
