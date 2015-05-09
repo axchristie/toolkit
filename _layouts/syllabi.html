@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+    {% include analytics.html %}
+    
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ site.name }} {{ site.subtitle }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="{{ site.baseurl}}/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="{{ site.baseurl}}/css/style.css">
+        <link rel="stylesheet" href="{{ site.baseurl}}/css/animations.css">
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/syllabus.css"></script>
+        
+        <!-- Web Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' 			type='text/css'><type='text/css'> 
+		<link href='http://fonts.googleapis.com/css?family=Josefin+Slab' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>		
+		<link href='http://fonts.googleapis.com/css?family=Port+Lligat+Slab' rel='stylesheet' type='text/css'>   
+		<script src="http://use.edgefonts.net/merriweather.js"></script>
+		<script src="//use.edgefonts.net/abel.js"></script>  
+
+		<!-- jquery -->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		
+		<!-- Favicon -->		 
+		 <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico">
+
+    </head>
+    <body>
+
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+	            <h0>{{ site.name }}</h0><h01>{{ site.subtitle }}</h01><br>
+            <ha>{{ site.description }}</ha><br>
+            <div class="pad">
+            <h11>
+            <a class="extra" href="{{ site.baseurl }}/">{{ site.page1 }}</a>
+              <a class="extra" href="{{ site.baseurl }}/documentation/documentation.html">{{ site.page2 }}</a>
+              <a class="extra" href="{{ site.baseurl }}/resources/">{{ site.page3 }}</a>
+              <a class="extra" href="{{ site.baseurl }}/tools/">{{ site.page4 }}</a>
+              <h1 class="title"><a href="{{ site.baseurl }}/syllabus/">{{ site.page5 }}</a></h1>              
+              </h11>
+            </div>
+            </div>
+
+
+       <div class="set">
+		<div class="content wrapper">
+
+<table border="0">
+
+                {{ content }}
+
+                <br>
+                <p class="return"><a href="{{ site.baseurl }}/syllabus/">back</a></p>
+
+</table>
+
+ </div>              
+</div> 
+
+    </body>
+    
+        {% include footer.html %}
+    
+</html>

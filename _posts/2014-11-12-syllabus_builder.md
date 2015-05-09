@@ -1,0 +1,16 @@
+---
+layout: syllabi
+title: Syllabus Builder
+categories: syllabus
+picture: builder
+---
+
+##Open Source Syllabus Builder <span class="arrowh2"></span>
+
+The open source syllabus builder is currently available as a public beta and reflects work that is ongoing in and in process.
+
+Like the tool, the outcomes, objectives, and values of a course are shaped by the individual and in-process aims of the instructor. As such, the syllabus builder is meant to be a guide for beginning the processs of syllabus construction, rather than a replacement for the critical work of building a course. Please continue to shape and refine syllabuses generated through this tool to meet the individual aims of your course, and feel free to share the work you do with peers online and off.
+
+###[Continue to the syllabus builder]({{ site.baseurl}}/syllabus/builder.html) <span class="arrowh3"></span>
+
+Please get in touch with your feedback and thoughts, including what modifications to this tool may be useful as it moves out of beta. I would be happy to hear your comments. [Contact the project](http://twitter.com/PedagogyKit)

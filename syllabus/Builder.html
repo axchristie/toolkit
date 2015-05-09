@@ -1,0 +1,251 @@
+---
+layout: syllabus
+---
+<!-- selector switches -->
+<div id="wrapper">
+<div id="SyllabusPanel" style="overflow: scroll">
+
+<span id="PanelBannerBig">Syllabus Builder<span style="font-size: .5em; color: black;">BETA</span></span>
+<br>
+<span>Front matter</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchFrontmatter" unchecked>
+<label class="onoffswitch-label" for="switchFrontmatter">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+
+<br>
+
+<div id="FrontMatters" style="display: none;">
+Instructor:</span><input id="instructor" type="text"><br>
+E-mail:</span><input id="email" type="text"><br>
+Office:</span><input id="office" type="text"><br>
+Office Hours:</span><input id="office_hours" type="text"><br>
+Classroom:</span><input id="classroom" type="text"><br>
+<button type="button" id="frontmat">update</button>
+</div>
+
+<span id="PanelBanner">Learning Outcomes</span>
+
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchExpectations" unchecked>
+<label class="onoffswitch-label" for="switchExpectations">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+
+<br>
+
+<div id="switchboxExpectations" style="display: none;">
+{% for org_hash in site.data.syllabus %}
+{% assign org = org_hash[1] %}
+<span>{{ org.expectationsDesc }}</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switch{{ org.course }}expectations" unchecked>
+<label class="onoffswitch-label" for="switch{{ org.course }}expectations">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+{% endfor %}
+</div>
+
+<span id="PanelBanner">Attendance policy</span>
+
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchAttendance" unchecked>
+<label class="onoffswitch-label" for="switchAttendance">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+
+<br>
+
+<div id="switchboxAttendance" style="display: none;">
+{% for org_hash in site.data.syllabus %}
+{% assign org = org_hash[1] %}
+<span>{{ org.attendanceDesc }}</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switch{{ org.course }}attendance" unchecked>
+<label class="onoffswitch-label" for="switch{{ org.course }}attendance">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+{% endfor %}
+</div>
+
+<span id="PanelBanner">Course readings</span>
+
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchReading" unchecked>
+<label class="onoffswitch-label" for="switchReading">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+
+<br>
+
+<div id="switchboxReading" style="display: none;">
+{% for org_hash in site.data.syllabus %}
+{% assign org = org_hash[1] %}
+<span>{{ org.module }}</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switch{{ org.course }}reading" unchecked>
+<label class="onoffswitch-label" for="switch{{ org.course }}reading">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+{% endfor %}
+</div>
+
+<span id="PanelBanner">Complete syllabus</span>
+<br>
+<button type="button" id="print">download syllabus template</button>
+
+</div>
+
+<div id="SyllabusDoc">
+<table border="0">
+
+<!-- syllabus content shown here -->
+
+<h1 style="text-align: center;">COURSE OUTLINE</h1>
+<div id="Frontmatter">
+
+</div>
+
+<div id="learningme">
+<h1>Learning outcomes</h1>
+</div>
+
+<div id="attendanceme">
+<h1>Attendance Policy</h1>
+</div>
+
+<div id="readingme">
+<h1>Readings</h1>
+</div>
+
+<div>
+<p style="font-size: .5em; text-align: center;">Made with contributions from: Janine Utell, Constance Crompton, Eric Rettberg, Steve Jones, and Jacqueline Wernimont.</p>
+</div>
+</table>
+</div>
+
+<!-- code to hide and show json content -->
+
+<script>
+
+function downloadInnerHtml(filename, elId, mimeType) {
+    var elHtml = document.getElementById(elId).textContent;
+    var link = document.createElement('a');
+    mimeType = mimeType || 'text/plain';
+
+    link.setAttribute('download', filename);
+    link.setAttribute('href', 'data:' + mimeType + ';charset=utf-8,' + encodeURIComponent(elHtml));
+    link.click(); 
+}
+
+$(document).ready(function(){
+
+var fileName = 'syllabus.txt'; // You can use the .txt extension if you want
+	$('#print').click(function(){
+		downloadInnerHtml(fileName, 'SyllabusDoc', 'text/plain');		
+	});
+
+$('#frontmat').click(function(){
+var instructor = $('#instructor').val();
+var email = $('#email').val();
+var office = $('#office').val();
+var office_hours = $('#office_hours').val();
+var classroom = $('#classroom').val();
+
+
+        $("#Frontmatter").append("\n <p>Instructor: " + instructor + "</p>\n");
+        $("#Frontmatter").append("\n <p>E-mail: " + email + "</p>\n");
+        $("#Frontmatter").append("\n <p>Office: " + office + "</p>\n");
+        $("#Frontmatter").append("\n <p>Office Hours: " + office_hours + "</p>\n");
+        $("#Frontmatter").append("\n <p>Classroom: " + classroom + "</p>\n");                        
+
+})
+
+{% for org_hash in site.data.syllabus %}
+{% assign org = org_hash[1] %}
+var {{org.course}}readings = "{{ org.readings }}";
+{% endfor %}
+
+$('#switchFrontmatter').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#FrontMatters").show();
+    } else {
+        $("#FrontMatters").hide();
+    }
+});    
+
+
+$('#switchAttendance').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#switchboxAttendance").show();
+    } else {
+        $("#switchboxAttendance").hide();
+    }
+});
+
+$('#switchExpectations').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#switchboxExpectations").show();
+    } else {
+        $("#switchboxExpectations").hide();
+    }
+});
+
+$('#switchReading').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#switchboxReading").show();
+    } else {
+        $("#switchboxReading").hide();
+    }
+});
+
+
+{% for org_hash in site.data.syllabus %}
+{% assign org = org_hash[1] %}
+    
+$('#switch{{ org.course }}expectations').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#learningme").append("\n <div id='{{ org.course }}expectations'>" + "{{ org.expectations }}" + "<br></div>\n");     
+    } else {
+        $("#{{ org.course }}expectations").hide();
+    }
+});
+
+
+$('#switch{{ org.course }}attendance').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#attendanceme").append("<p id='{{ org.course }}attendance'>" + "\n {{ org.attendance }} \n" + "</p>");     
+    } else {
+    	$('#{{ org.course }}attendance').remove();
+    }
+});
+
+$('#switch{{ org.course }}reading').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#readingme").append("<p id='{{ org.course }}reading'>" + "\n {{ org.module }}: <br>\n {{ org.readings }} \n" + "</p>");     
+    } else {
+    	$('#{{ org.course }}reading').remove();
+    }
+
+});
+{% endfor %}
+});
+</script>

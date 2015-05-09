@@ -1,0 +1,36 @@
+      {
+         "course":"ENGL135",
+         "creator":"Eric Rettberg",
+         "description":"composition 1",
+         "attendanceDesc":"high penalty",
+         "attendance":"The university expects students to attend all classes in which they are enrolled. University policy allows
+an instructor to refuse a student admission to class because of lateness, misconduct, inattention, or failure
+to meet the responsibilities of the course.<br><br>
+NOTE: After more than 3 unexcused absences, you will be deducted a full letter grade from your final
+grade (for instance, a “B” becomes a “B-“). After more than 8 unexcused absences, you will receive an
+“F” for this course.",
+    "expectationsDesc":"digital literacy",
+	"expectations":"<ul>By the end of this course, you should also be able to:<li>Think critically about the impact and ethics of data and information in various facets of our culture, from art to science, from schools to militaries, from corporate policies to your own online activities.</li><li>Make convincing arguments about the role of data and information in our society, with attention not just to opposing points of view, but also to alternative points of view.</li><li>Present yourself and your work confidently in public, whether in class or online.</li><li>Understand the ways different modes of communication work together synergistically.</li><li>Imagine readers and audiences for your work and tailor your rhetoric to those readers and audiences.</li><li>Choose appropriate tools and mediums through which to express complex ideas.</li></ul>",
+        "late_assignmentsDesc":"high penalty",
+		"late_assignments":"Assignments are due at the beginning of class on the date indicated on the class schedule. Extensions will
+be granted only in extenuating circumstances and must be discussed with the professor well in advance of
+the due date. Requests for extensions must be submitted in writing. Late assignments will be accepted up
+until 72 hours after the deadline, without an excuse, but 10% will be deducted for each 24 hours (or
+portion thereof). Missing assignments will receive a grade of zero.",
+        "module":"Composition Technologies",
+        "contributors":"Lisa Gitleman, Eric Rettberg, Constance Crompton",
+        "readings":"N. Katherine Hayles, How We Read: Close, Hyper, Machine<br>
+                    Naomi S. Baron, Redefining Reading: The Impact of Digital Communication Media PMLA (2013)<br>
+                    Betsy Sparrow, Jenny Liu, and Daniel M. Wegner, Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips, Science (2011)<br>
+                    Jerome McGann, Radiant Textuality: Literature After the World Wide Web (2001), pp. 1-28, 137-166, 193-208<br>
+                     Whitney Trettien, A Deep History of Electronic Textuality<br>
+                    DHQ; Bonnie Mak, Archaeology of a Digitization, JASIST.<br>
+          Ferris Jabr, Why the Brain Prefers Paper. Scientific American (November 2013)
+          Borges. The Library of Babel<br>
+          Campbell-Kelly, Martin et al. “The World Wide Web.” Computer : A History of the
+          Information Machine. 3rd ed. New York: Westview Press, 2013. 286–305. Print.<br>
+          Cohen, Dan. “The Social Contract of Scholarly Publishing.” Debates in the Digital
+          Humanities. Ed. Matthew Gold. Minneapolis, MN: U Minnesota P, 2012. 319–321.
+          Print. <CR>"
+                    
+      }

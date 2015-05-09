@@ -729,6 +729,18 @@ height: 100%;
 	background-image: url(../assets/images/buttons/neatline.jpg);	
 }
 
+.filingcabinet{
+	background-image: url(../assets/images/buttons/filing_cabinet.jpg);	
+}
+
+.builder{
+	background-image: url(../assets/images/buttons/builder.png);	
+}
+
+.metallic_box{
+	background-image: url(../assets/images/buttons/metallic_box_3d_sm.png);	
+}
+
 .logo{
 	margin-left: -15px;
 	margin-top: -70px;

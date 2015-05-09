@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42923668-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Pedagogy Toolkit for English</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/style.css">
+        <link rel="stylesheet" href="/css/animations.css">
+		<link rel="stylesheet" href="/css/syllabus.css"></script>
+        
+        <!-- Web Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' 			type='text/css'><type='text/css'> 
+		<link href='http://fonts.googleapis.com/css?family=Josefin+Slab' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>		
+		<link href='http://fonts.googleapis.com/css?family=Port+Lligat+Slab' rel='stylesheet' type='text/css'>   
+		<script src="http://use.edgefonts.net/merriweather.js"></script>
+		<script src="//use.edgefonts.net/abel.js"></script>  
+
+		<!-- jquery -->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		
+		<!-- Favicon -->		 
+		 <link rel="shortcut icon" href="/assets/favicon.ico">
+
+    </head>
+    <body>
+
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+	            <h0>Pedagogy Toolkit</h0><h01>for English</h01><br>
+            <ha>Community-driven resources for digital pedagogy in composition, rhetoric, and literature.</ha><br>
+            <div class="pad">
+            <h11>
+            <a class="extra" href="/">welcome</a>
+              <a class="extra" href="/documentation/documentation.html">documentation</a>
+              <a class="extra" href="/resources/">teaching resources</a>
+              <a class="extra" href="/tools/">online tools</a>
+              <h1 class="title"><a href="/syllabus/">syllabus</a></h1>              
+              </h11>
+            </div>
+            </div>
+
+
+                <!-- selector switches -->
+<div id="wrapper">
+<div id="SyllabusPanel" style="overflow: scroll">
+
+<span id="PanelBannerBig">Syllabus Builder<span style="font-size: .5em; color: black;">BETA</span></span>
+<br>
+<span>Front matter</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchFrontmatter" unchecked>
+<label class="onoffswitch-label" for="switchFrontmatter">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+
+<br>
+
+<div id="FrontMatters" style="display: none;">
+Instructor:</span><input id="instructor" type="text"><br>
+E-mail:</span><input id="email" type="text"><br>
+Office:</span><input id="office" type="text"><br>
+Office Hours:</span><input id="office_hours" type="text"><br>
+Classroom:</span><input id="classroom" type="text"><br>
+<button type="button" id="frontmat">update</button>
+</div>
+
+<span id="PanelBanner">Learning Outcomes</span>
+
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchExpectations" unchecked>
+<label class="onoffswitch-label" for="switchExpectations">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+
+<br>
+
+<div id="switchboxExpectations" style="display: none;">
+
+
+<span>digital literacy</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchENGL135expectations" unchecked>
+<label class="onoffswitch-label" for="switchENGL135expectations">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+
+
+<span>critical thinking</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchENGL301expectations" unchecked>
+<label class="onoffswitch-label" for="switchENGL301expectations">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+
+
+<span>digital project development</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchDH100expectations" unchecked>
+<label class="onoffswitch-label" for="switchDH100expectations">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+
+</div>
+
+<span id="PanelBanner">Attendance policy</span>
+
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchAttendance" unchecked>
+<label class="onoffswitch-label" for="switchAttendance">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+
+<br>
+
+<div id="switchboxAttendance" style="display: none;">
+
+
+<span>high penalty</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchENGL135attendance" unchecked>
+<label class="onoffswitch-label" for="switchENGL135attendance">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+
+
+<span>moderate penalty</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchENGL301attendance" unchecked>
+<label class="onoffswitch-label" for="switchENGL301attendance">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+
+
+<span>low penalty</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchDH100attendance" unchecked>
+<label class="onoffswitch-label" for="switchDH100attendance">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+
+</div>
+
+<span id="PanelBanner">Course readings</span>
+
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchReading" unchecked>
+<label class="onoffswitch-label" for="switchReading">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+
+<br>
+
+<div id="switchboxReading" style="display: none;">
+
+
+<span>Composition Technologies</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchENGL135reading" unchecked>
+<label class="onoffswitch-label" for="switchENGL135reading">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+
+
+<span>Digital Mapping</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchENGL301reading" unchecked>
+<label class="onoffswitch-label" for="switchENGL301reading">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+
+
+<span>Digital Games</span>
+<div class="onoffswitch">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchDH100reading" unchecked>
+<label class="onoffswitch-label" for="switchDH100reading">
+<div class="onoffswitch-inner"></div>
+<div class="onoffswitch-switch"></div>
+</label>
+</div>
+<br>
+
+</div>
+
+<span id="PanelBanner">Complete syllabus</span>
+<br>
+<button type="button" id="print">download syllabus template</button>
+
+</div>
+
+<div id="SyllabusDoc">
+<table border="0">
+
+<!-- syllabus content shown here -->
+
+<h1 style="text-align: center;">COURSE OUTLINE</h1>
+<div id="Frontmatter">
+
+</div>
+
+<div id="learningme">
+<h1>Learning outcomes</h1>
+</div>
+
+<div id="attendanceme">
+<h1>Attendance Policy</h1>
+</div>
+
+<div id="readingme">
+<h1>Readings</h1>
+</div>
+
+<div>
+<p style="font-size: .5em; text-align: center;">Made with contributions from: Janine Utell, Constance Crompton, Eric Rettberg, Steve Jones, and Jacqueline Wernimont.</p>
+</div>
+</table>
+</div>
+
+<!-- code to hide and show json content -->
+
+<script>
+
+function downloadInnerHtml(filename, elId, mimeType) {
+    var elHtml = document.getElementById(elId).textContent;
+    var link = document.createElement('a');
+    mimeType = mimeType || 'text/plain';
+
+    link.setAttribute('download', filename);
+    link.setAttribute('href', 'data:' + mimeType + ';charset=utf-8,' + encodeURIComponent(elHtml));
+    link.click(); 
+}
+
+$(document).ready(function(){
+
+var fileName = 'syllabus.txt'; // You can use the .txt extension if you want
+	$('#print').click(function(){
+		downloadInnerHtml(fileName, 'SyllabusDoc', 'text/plain');		
+	});
+
+$('#frontmat').click(function(){
+var instructor = $('#instructor').val();
+var email = $('#email').val();
+var office = $('#office').val();
+var office_hours = $('#office_hours').val();
+var classroom = $('#classroom').val();
+
+
+        $("#Frontmatter").append("\n <p>Instructor: " + instructor + "</p>\n");
+        $("#Frontmatter").append("\n <p>E-mail: " + email + "</p>\n");
+        $("#Frontmatter").append("\n <p>Office: " + office + "</p>\n");
+        $("#Frontmatter").append("\n <p>Office Hours: " + office_hours + "</p>\n");
+        $("#Frontmatter").append("\n <p>Classroom: " + classroom + "</p>\n");                        
+
+})
+
+
+
+var ENGL135readings = "N. Katherine Hayles, How We Read: Close, Hyper, Machine<br> Naomi S. Baron, Redefining Reading: The Impact of Digital Communication Media PMLA (2013)<br> Betsy Sparrow, Jenny Liu, and Daniel M. Wegner, Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips, Science (2011)<br> Jerome McGann, Radiant Textuality: Literature After the World Wide Web (2001), pp. 1-28, 137-166, 193-208<br> Whitney Trettien, A Deep History of Electronic Textuality<br> DHQ; Bonnie Mak, Archaeology of a Digitization, JASIST.<br> Ferris Jabr, Why the Brain Prefers Paper. Scientific American (November 2013) Borges. The Library of Babel<br> Campbell-Kelly, Martin et al. “The World Wide Web.” Computer : A History of the Information Machine. 3rd ed. New York: Westview Press, 2013. 286–305. Print.<br> Cohen, Dan. “The Social Contract of Scholarly Publishing.” Debates in the Digital Humanities. Ed. Matthew Gold. Minneapolis, MN: U Minnesota P, 2012. 319–321. Print. <CR>";
+
+
+var ENGL301readings = " Jo Guldi, What Is the Spatial Turn?<br> David J. Bodenhamer, The Potential of Spatial Humanities<br> Johanna Drucker, Humanistic Theory and Digital Scholarship and Humanities Approaches to Graphical Display<br> Bethany Nowviskie, Neatline and Visualization as Interpretation<br> Samuels and McGann, Deformance and Interpretation<br> Franco Moretti, Distant Reading<br> Denis Wood, A Map Is an Image Proclaiming Its Objective Neutrality<br> Harley, Deconstructing the Map<br> Breton, André. Sur certaines possibilities d’embellissement irrationnel d’une ville.<br> ";
+
+
+var DH100readings = " Mary Flanagan, Critical Play: Radical Game Design (Introduction, Ch. 2. Playing House (17-62) and and Ch. 7 Critical Computer Games (222-249).<br> Janine Fron, Tracy Fullerton, Jacquelyn Ford Morie, and Celia Pearce, “The Hegemony of Play”<br> Bonsignore, E.,* Hansen, D., Kraus, K., & Ruppel, M.* (2013). Alternate Reality Games as platforms for practicing 21st -century literacies. International Journal of Learning and Media<br> Liz Losh, “#Gamergate 101″ date: 10/17<br> Kraus, K. (2011). “A counter-friction to the machine”: What game scholars, librarians, and archivists can learn from machinima makers about user activism. Special commissioned issue on machinima. Journal of Visual Culture 10(1), 100-112<br> Bogost, Perpetual Adolescence, Proteus, Exploitationware, Shit Crayons<br> Wark, Gamer Theory, Agony: On The Cave<br> Kaplan and Zimmerman, PLAY<br> Jones and Thiruvathukal, from Codename Revolution (esp. chptrs. 1, 6, 7)<br> Belojevic et. al., A Select Annotated Bibliography Concerning Game-Design Models for Digital Social Knowledge Creation<br> ";
+
+
+$('#switchFrontmatter').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#FrontMatters").show();
+    } else {
+        $("#FrontMatters").hide();
+    }
+});    
+
+
+$('#switchAttendance').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#switchboxAttendance").show();
+    } else {
+        $("#switchboxAttendance").hide();
+    }
+});
+
+$('#switchExpectations').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#switchboxExpectations").show();
+    } else {
+        $("#switchboxExpectations").hide();
+    }
+});
+
+$('#switchReading').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#switchboxReading").show();
+    } else {
+        $("#switchboxReading").hide();
+    }
+});
+
+
+
+
+    
+$('#switchENGL135expectations').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#learningme").append("\n <div id='ENGL135expectations'>" + "<ul>By the end of this course, you should also be able to:<li>Think critically about the impact and ethics of data and information in various facets of our culture, from art to science, from schools to militaries, from corporate policies to your own online activities.</li><li>Make convincing arguments about the role of data and information in our society, with attention not just to opposing points of view, but also to alternative points of view.</li><li>Present yourself and your work confidently in public, whether in class or online.</li><li>Understand the ways different modes of communication work together synergistically.</li><li>Imagine readers and audiences for your work and tailor your rhetoric to those readers and audiences.</li><li>Choose appropriate tools and mediums through which to express complex ideas.</li></ul>" + "<br></div>\n");     
+    } else {
+        $("#ENGL135expectations").hide();
+    }
+});
+
+
+$('#switchENGL135attendance').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#attendanceme").append("<p id='ENGL135attendance'>" + "\n The university expects students to attend all classes in which they are enrolled. University policy allows an instructor to refuse a student admission to class because of lateness, misconduct, inattention, or failure to meet the responsibilities of the course.<br><br> NOTE: After more than 3 unexcused absences, you will be deducted a full letter grade from your final grade (for instance, a “B” becomes a “B-“). After more than 8 unexcused absences, you will receive an “F” for this course. \n" + "</p>");     
+    } else {
+    	$('#ENGL135attendance').remove();
+    }
+});
+
+$('#switchENGL135reading').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#readingme").append("<p id='ENGL135reading'>" + "\n Composition Technologies: <br>\n N. Katherine Hayles, How We Read: Close, Hyper, Machine<br> Naomi S. Baron, Redefining Reading: The Impact of Digital Communication Media PMLA (2013)<br> Betsy Sparrow, Jenny Liu, and Daniel M. Wegner, Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips, Science (2011)<br> Jerome McGann, Radiant Textuality: Literature After the World Wide Web (2001), pp. 1-28, 137-166, 193-208<br> Whitney Trettien, A Deep History of Electronic Textuality<br> DHQ; Bonnie Mak, Archaeology of a Digitization, JASIST.<br> Ferris Jabr, Why the Brain Prefers Paper. Scientific American (November 2013) Borges. The Library of Babel<br> Campbell-Kelly, Martin et al. “The World Wide Web.” Computer : A History of the Information Machine. 3rd ed. New York: Westview Press, 2013. 286–305. Print.<br> Cohen, Dan. “The Social Contract of Scholarly Publishing.” Debates in the Digital Humanities. Ed. Matthew Gold. Minneapolis, MN: U Minnesota P, 2012. 319–321. Print. <CR> \n" + "</p>");     
+    } else {
+    	$('#ENGL135reading').remove();
+    }
+
+});
+
+
+    
+$('#switchENGL301expectations').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#learningme").append("\n <div id='ENGL301expectations'>" + "This course meets the goals and objectives of the English department.<ul>Students who successfully complete this course will be able to:<li>Identify literary genres, terms, and theories, and apply that knowledge to critical analysis, interpretation, close reading.</li><li>Demonstrate awareness of literary tradition and its relation to the present, particularly in the work of literary criticism and theory.</li><li>Write with critical insight, offering original interpretations and arguments in conversation with scholarship in the discipline.</li><li>Exhibit the habits of mind associated with critical thinking.</li><li>Render aesthetic judgment.</li></ul>" + "<br></div>\n");     
+    } else {
+        $("#ENGL301expectations").hide();
+    }
+});
+
+
+$('#switchENGL301attendance').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#attendanceme").append("<p id='ENGL301attendance'>" + "\n You are permitted six absences for emergencies.  You will receive a warning after five.  After the six absence, I will enter a failing grade for you for the course.  If something is going on with you that causes you to miss class, please come talk to me about it before it gets out of hand!   Note that because this class has a hefty in-class work requirement, if you miss it will impact your grade.  You may only miss ONE screening unless there are extenuating circumstances.<br><br>I will return your graded work back to you as quickly as possible, and you should always feel free to talk to me about the feedback you receive (or would like to receive).  You will have the option to receive feedback either in writing or electronically.  It is important that you participate in the feedback loop: this means reading through my comments and sharing thoughts in conferences, giving serious consideration to the kinds of feedback you’re getting, and telling me what kind of feedback you need. \n" + "</p>");     
+    } else {
+    	$('#ENGL301attendance').remove();
+    }
+});
+
+$('#switchENGL301reading').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#readingme").append("<p id='ENGL301reading'>" + "\n Digital Mapping: <br>\n  Jo Guldi, What Is the Spatial Turn?<br> David J. Bodenhamer, The Potential of Spatial Humanities<br> Johanna Drucker, Humanistic Theory and Digital Scholarship and Humanities Approaches to Graphical Display<br> Bethany Nowviskie, Neatline and Visualization as Interpretation<br> Samuels and McGann, Deformance and Interpretation<br> Franco Moretti, Distant Reading<br> Denis Wood, A Map Is an Image Proclaiming Its Objective Neutrality<br> Harley, Deconstructing the Map<br> Breton, André. Sur certaines possibilities d’embellissement irrationnel d’une ville.<br>  \n" + "</p>");     
+    } else {
+    	$('#ENGL301reading').remove();
+    }
+
+});
+
+
+    
+$('#switchDH100expectations').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#learningme").append("\n <div id='DH100expectations'>" + "Digital artifacts and tools, the products of positivist computational logic, may seem at odds with the humanities tradition, however, encoding and visualization can help scholars engage in the types of analysis that are at the heart of the humanities. Working collaboratively, students in The Self-Conscious Text will apply digital research methods to a range of scholarly practices, from visualizing and mapping to encoding and publishing and will bring their digital, textual, and cultural literacy together in the production of an online edition. Through practice-based reflection students will employ close reading methods as they plan their own descriptive markup, as well as distant reading methods as they use large data sets to develop their own research questions.<br><br> <ul>By the end of the course students who have learned successfully will be able to: <li>Understand the cultural context of digital humanities’ development</li> <li>Understand the broad history of the Web</li> </li>Use digital methodologies</li> <li>Build on elemental digital skills to produce critical digital resources</li> <li>Engage critically and creatively with their own and others’ digital texts.</li></ul>" + "<br></div>\n");     
+    } else {
+        $("#DH100expectations").hide();
+    }
+});
+
+
+$('#switchDH100attendance').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#attendanceme").append("<p id='DH100attendance'>" + "\n After more than 8 unexcused absences, you will be deducted a full letter grade from your final grade (for instance, a “B” becomes a “B-“). \n" + "</p>");     
+    } else {
+    	$('#DH100attendance').remove();
+    }
+});
+
+$('#switchDH100reading').on('change', function() {
+    if ($(this).is(':checked')) {
+        $("#readingme").append("<p id='DH100reading'>" + "\n Digital Games: <br>\n  Mary Flanagan, Critical Play: Radical Game Design (Introduction, Ch. 2. Playing House (17-62) and and Ch. 7 Critical Computer Games (222-249).<br> Janine Fron, Tracy Fullerton, Jacquelyn Ford Morie, and Celia Pearce, “The Hegemony of Play”<br> Bonsignore, E.,* Hansen, D., Kraus, K., & Ruppel, M.* (2013). Alternate Reality Games as platforms for practicing 21st -century literacies. International Journal of Learning and Media<br> Liz Losh, “#Gamergate 101″ date: 10/17<br> Kraus, K. (2011). “A counter-friction to the machine”: What game scholars, librarians, and archivists can learn from machinima makers about user activism. Special commissioned issue on machinima. Journal of Visual Culture 10(1), 100-112<br> Bogost, Perpetual Adolescence, Proteus, Exploitationware, Shit Crayons<br> Wark, Gamer Theory, Agony: On The Cave<br> Kaplan and Zimmerman, PLAY<br> Jones and Thiruvathukal, from Codename Revolution (esp. chptrs. 1, 6, 7)<br> Belojevic et. al., A Select Annotated Bibliography Concerning Game-Design Models for Digital Social Knowledge Creation<br>  \n" + "</p>");     
+    } else {
+    	$('#DH100reading').remove();
+    }
+
+});
+
+});
+</script>
+
+
+
+    </body>
+    
+</html>
