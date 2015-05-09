@@ -13,9 +13,9 @@ While the syllabuses below are roughly divided between two categories, they all 
 
 * Grant Wythoff: Screen Reading [course website](http://wythoff.net/screenreading/) and [syllabus](https://github.com/gwijthoff/Screenreading/blob/master/screenreading_syllabus.md)
 * Steve Jones: [Digital Media and Culture](http://stevenejones.org/teaching/english-415/)
-* Lisa Gitleman: [The Social Life of Paper](http://lisagitelman.org/paper.htm) & [Text and Technology](http://lisagitelman.org/text_and_technogy)
+* Lisa Gitelman: [The Social Life of Paper](http://lisagitelman.org/paper.htm) & [Text and Technology](http://lisagitelman.org/text_and_technogy)
 * Ryan Cordell: [Texts, Maps, Newtorks: Digital Literary Studies](http://f14tmn.ryancordell.org/) & [Technologies of Text](http://f14tot.ryancordell.org/)
-* Jeff Drouin: [DH and Modernism course site](http://modernist-magazines.org/), [World War I Course Exhibit](http://courses.utulsa.edu/wwi/)
+* Jeff Drouin: [DH and Modernism course site](http://modernist-magazines.org/) & [World War I Course Exhibit](http://courses.utulsa.edu/wwi/)
 * Janine Utell: [Methods of Literary Study]({{ site.baseurl }}/assets/syllabus/Utell_2015_301_syllabus.pdf)
 * Constance Crompton: [The Self Conscious Text]({{ site.baseurl }}/assets/syllabus/Crompton_DIHU301_ENGL305_syllabus.pdf)
 * Alan Liu: [Literature + Experimenting with Digital Approaches to Understanding Literature](http://english149f2014.pbworks.com/w/page/85285771/FrontPage), [Close Reading and Distant Reading in Literary Studies](http://english197w2014.pbworks.com/w/page/71971382/FrontPage), & [more](http://liu.english.ucsb.edu/category/courses/undergrad-courses/)
