@@ -11,7 +11,7 @@ function downloadInnerHtml(filename, elId, mimeType) {
 var openclose = function(a, b, c){
     $(c).click(function(){
     if(c==="#begin"){
-    			$('#edit_a').css('float', 'right');
+    			$('#edit_a').css('float', 'left');
     			$('#add_a').css('float', 'right');
                $('#prep_a').removeClass('closed');
                $('#prep_a').addClass('open');
@@ -21,7 +21,8 @@ var openclose = function(a, b, c){
                 });
 setTimeout(function (){
         $('#add_a').css('float', 'left');
-}, 400);                
+        $('#edit_a').css('float', 'left');
+}, 300);
     }
     if(c==="#prep_next"){
     	$('#prep_a').css('float', 'left');
@@ -46,7 +47,7 @@ setTimeout(function (){
                 });
                 $('#edit_b').toggle(function(){
 	               $(this).show; 
-                });               
+                });
     }
     
                 $(a).removeClass('closed');
@@ -63,7 +64,7 @@ $(document).ready(function(){
                   var n_height = $(window).height();
                   $('.menus').css('width', n_width * 9.5 + 'px');
                   $('.panels').css('width', n_width * 70 + 'px');
-                  $('#intro').css('padding-left', n_width * .5 + 'px');                  
+                  $('#intro').css('padding-left', n_width * .5 + 'px');
                   $('#add_b').css('padding-left', n_width * .5 + 'px');
                   $('#prep_b').css('padding-left', n_width * .5 + 'px');  
                   $('.panels h1').css('margin-left', "-" + n_width * .4 + 'px');                                    
