@@ -2,14 +2,14 @@
          "course":"ENGL135",
          "creator":"Eric Rettberg",
          "description":"composition 1",
-         "attendanceDesc":"high penalty",
+         "attendanceDesc":"High Penalty",
          "attendance":"The university expects students to attend all classes in which they are enrolled. University policy allows
 an instructor to refuse a student admission to class because of lateness, misconduct, inattention, or failure
 to meet the responsibilities of the course.<br><br>
 NOTE: After more than 3 unexcused absences, you will be deducted a full letter grade from your final
 grade (for instance, a “B” becomes a “B-“). After more than 8 unexcused absences, you will receive an
 “F” for this course.",
-    "expectationsDesc":"digital literacy",
+    "expectationsDesc":"Digital Literacy",
 	"expectations":"<ul>By the end of this course, you should also be able to:<li>Think critically about the impact and ethics of data and information in various facets of our culture, from art to science, from schools to militaries, from corporate policies to your own online activities.</li><li>Make convincing arguments about the role of data and information in our society, with attention not just to opposing points of view, but also to alternative points of view.</li><li>Present yourself and your work confidently in public, whether in class or online.</li><li>Understand the ways different modes of communication work together synergistically.</li><li>Imagine readers and audiences for your work and tailor your rhetoric to those readers and audiences.</li><li>Choose appropriate tools and mediums through which to express complex ideas.</li></ul>",
         "late_assignmentsDesc":"high penalty",
 		"late_assignments":"Assignments are due at the beginning of class on the date indicated on the class schedule. Extensions will
