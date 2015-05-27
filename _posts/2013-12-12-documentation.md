@@ -168,7 +168,7 @@ Robin, Valerie. "[Addressing the Elephant: The Importance of Infrastructure](htt
 
 Scholz, R. Trebor. "[Introduction: Learning Through Digital Media" Learning Through Digital Media Experiments in Technology and Pedagogy](http://learningthroughdigitalmedia.net/introduction-learning-through-digital-media)." *Learning through Digital Media: Experiments in Technology and Pedagogy*.  Learning Through Digital Media, 31 March 2011. Web. 15 May 2015.
 
-Spiro, Lisa. "[What are the Costs of Not Sharing](http://mediacommons.futureofthebook.org/question/what-are-major-sociallegalprofessional-stakes-sharing-online/response/what-are-costs-not-sh )." MediaCommons, 11 Mar 2013. Web. 15 May 2015. 
+Spiro, Lisa. "[What are the Costs of Not Sharing](http://mediacommons.futureofthebook.org/question/what-are-major-sociallegalprofessional-stakes-sharing-online/response/what-are-costs-not-sh )?" MediaCommons, 11 Mar 2013. Web. 15 May 2015. 
 
 Stommel, Jesse. "[Learning is not a Mechanism](http://www.hybridpedagogy.com/journal/repost/learning-not-mechanism/)."  *Hybrid Pedagogy*. Hybrid Pedagogy, 28 April 2015. Web. 15 May 2015. 
 
