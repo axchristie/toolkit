@@ -35,4 +35,4 @@ See much more at [CUNY Academic Commons](http://commons.gc.cuny.edu/wiki/index.p
 
 ##Digital Assignments <span class="arrowh2"></span>
 
-* Amanda Licastro: [Final Assignment, Reflective Design]({{ site.baseurl }}/assets/docs/assignments/FinalAssignment_DesignFiction.doc) &  [Final Assignment, Speculative Fiction]({{ site.baseurl }}/assets/docs/assignments/Final_Assignment_SpeculativeFiction.docx)
+* Amanda Licastro: [Final Assignment, Reflective Design](http://docs.google.com/viewer?url=https://github.com/axchristie/toolkit/blob/gh-pages/assets/docs/assignments/FinalAssignment_DesignFiction.doc?raw=true) &  [Final Assignment, Speculative Fiction](http://docs.google.com/viewer?url=https://github.com/axchristie/toolkit/blob/gh-pages/assets/docs/assignments/Final_Assignment_SpeculativeFiction.docx?raw=true)
