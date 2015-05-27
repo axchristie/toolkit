@@ -1,20 +1,13 @@
 ---
-layout: syllabus
+layout: syllabus_tool
 ---
-<!-- selector switches -->
 <div id="wrapper">
 
+<!-- Syllabus containers -->
 <div id="SyllabusDoc">
 <table border="0">
 
-<!-- syllabus content shown here -->
-
-<!--
-<div id="alert">
-DISCLAIMER
-</div>
--->
-
+<span id="SyllabusSpan">
 <div id="Frontmatter">
 
 </div>
@@ -31,40 +24,31 @@ DISCLAIMER
 <h1>Readings</h1>
 </div>
 
+</span>
+
 </table>
 </div>
 </div>
 
-<!-- BEGIN NEW CONTENT -->
-
-<div class="bib">
-<h1>Bibliography</h1>
-<span id="bib" hidden><ul>Made with contributions from:
-<li>Janine Utell</li>
-<li>Constance Crompton</li>
-<li>Eric Rettberg</li>
-<li>Steve Jones</li>
-<li>Lisa Gitelman</li>
-<li>Jacqueline Wernimont</li></ul></span>
-</div>
-
+<!-- Templating tool interface -->
 
 <div id="bottom-box">
 
-<!-- intro -->
+<!-- Intro -->
 <div class="panels" id="intro">
 <div class="panel_left">
 <h1>Syllabus Templating Tool</h1>
-<p>This tool facilitates the templating of an initial syllabus draft with digital learning components. The templating process is divided into three stages (prepare, remix, and revise). Please continue the critical work of composing a course after your work with this tool is complete.</p>
+<p>This tool facilitates the templating of an initial syllabus draft with digital learning components. The templating process is divided into three stages (prepare, remix, and revise). Please continue the critical work of composing a course after your work with this tool is complete. <a id="syllabus_bibliography">List of contributors</a></p>
 </div>
 
 <div class="panel_right">
 	<div class="next complete" id="begin"><span class="next_text">begin</span></div>
 </div>
 </div>
-<!-- Phase one -->
-<div class="menus" id="prep_a"><span class="menus_text">prepare</span></div>
-<div class="panels" id="prep_b" hidden>
+
+<!-- Step One -->
+<div class="menus" id="prepare_label"><span class="menus_text">prepare</span></div>
+<div class="panels" id="prepare_fields" hidden>
 
 <div class="panel_left">
 	<h1>Fill out your course information (all fields optional)</h1>
@@ -86,10 +70,9 @@ DISCLAIMER
 
 </div>
 
-<!-- Phase two -->
-<div class="menus closed" id="add_a"><span class="menus_text">remix</span></div>
-<div class="menus closed" id="edit_a"><span class="menus_text">revise</span></div>
-<div class="panels" id="add_b" hidden>
+<!-- Step Two -->
+<div class="menus closed" id="remix_label"><span class="menus_text">remix</span></div>
+<div class="panels" id="remix_fields" hidden>
 
 <div class="panel_left">
 	
@@ -156,9 +139,9 @@ DISCLAIMER
 
 		</div>
 
-<!-- Phase three -->
-
-<div class="panels" id="edit_b" hidden>
+<!-- Step Three -->
+<div class="menus closed" id="revise_label"><span class="menus_text">revise</span></div>
+<div class="panels" id="revise_fields" hidden>
 
 <div class="panel_farleft">
 	<div class="next red" id="edit"><span class="next_text">edit syllabus</span></div>
@@ -168,9 +151,10 @@ DISCLAIMER
 <div class="panel_middle">
 	<ul style="float: left; padding-left: 15px;">Syllabuses express cultural choices, values, and philosophies of learning. Please consult these sources as you revise.
 		<li>Jacqueline Wernimont, "<a href="https://jwernimont.wordpress.com/2015/02/17/build-a-better-dh-syllabus/" target="_blank">Build a Better DH Syllabus</a>."</li>
-		<li>Roopika Risam, "<a href="http://roopikarisam.com/2014/08/27/in-defense-of-learning-outcomes/">In Defense of Learning Outcomes</a>."</li>
+		<li>Roopika Risam, "<a href="http://roopikarisam.com/2014/08/27/in-defense-of-learning-outcomes/" target="_blank">In Defense of Learning Outcomes</a>."</li>
 		<li>Trent Kays, "<a href="http://www.hastac.org/blogs/trentmkays/2014/02/18/04-email-instruction-first-year-writing-courses
 " target="_blank">Email Instruction in First Year Writing Courses</a>."</li>
+<li>And much more in the <a href="{{ site.baseurl }}/documentation/documentation.html#bibliographyspan-classarrowh2span" target="_blank">Pedagogy Toolkit Bibliography</a>.</li>
 	</ul>
 </div>
 

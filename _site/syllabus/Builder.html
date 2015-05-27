@@ -2,7 +2,7 @@
 <html>
     <head>
     
-    <script>
+<!--    <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -11,7 +11,7 @@
   ga('create', 'UA-42923668-3', 'auto');
   ga('send', 'pageview');
 
-</script> 
+</script> -->
     
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -62,20 +62,13 @@
             </div>
 
 
-                <!-- selector switches -->
-<div id="wrapper">
+                <div id="wrapper">
 
+<!-- Syllabus containers -->
 <div id="SyllabusDoc">
 <table border="0">
 
-<!-- syllabus content shown here -->
-
-<!--
-<div id="alert">
-DISCLAIMER
-</div>
--->
-
+<span id="SyllabusSpan">
 <div id="Frontmatter">
 
 </div>
@@ -92,40 +85,31 @@ DISCLAIMER
 <h1>Readings</h1>
 </div>
 
+</span>
+
 </table>
 </div>
 </div>
 
-<!-- BEGIN NEW CONTENT -->
-
-<div class="bib">
-<h1>Bibliography</h1>
-<span id="bib" hidden><ul>Made with contributions from:
-<li>Janine Utell</li>
-<li>Constance Crompton</li>
-<li>Eric Rettberg</li>
-<li>Steve Jones</li>
-<li>Lisa Gitelman</li>
-<li>Jacqueline Wernimont</li></ul></span>
-</div>
-
+<!-- Templating tool interface -->
 
 <div id="bottom-box">
 
-<!-- intro -->
+<!-- Intro -->
 <div class="panels" id="intro">
 <div class="panel_left">
 <h1>Syllabus Templating Tool</h1>
-<p>This tool facilitates the templating of an initial syllabus draft with digital learning components. The templating process is divided into three stages (prepare, remix, and revise). Please continue the critical work of composing a course after your work with this tool is complete.</p>
+<p>This tool facilitates the templating of an initial syllabus draft with digital learning components. The templating process is divided into three stages (prepare, remix, and revise). Please continue the critical work of composing a course after your work with this tool is complete. <a id="syllabus_bibliography">List of contributors</a></p>
 </div>
 
 <div class="panel_right">
 	<div class="next complete" id="begin"><span class="next_text">begin</span></div>
 </div>
 </div>
-<!-- Phase one -->
-<div class="menus" id="prep_a"><span class="menus_text">prepare</span></div>
-<div class="panels" id="prep_b" hidden>
+
+<!-- Step One -->
+<div class="menus" id="prepare_label"><span class="menus_text">prepare</span></div>
+<div class="panels" id="prepare_fields" hidden>
 
 <div class="panel_left">
 	<h1>Fill out your course information (all fields optional)</h1>
@@ -147,10 +131,9 @@ DISCLAIMER
 
 </div>
 
-<!-- Phase two -->
-<div class="menus closed" id="add_a"><span class="menus_text">remix</span></div>
-<div class="menus closed" id="edit_a"><span class="menus_text">revise</span></div>
-<div class="panels" id="add_b" hidden>
+<!-- Step Two -->
+<div class="menus closed" id="remix_label"><span class="menus_text">remix</span></div>
+<div class="panels" id="remix_fields" hidden>
 
 <div class="panel_left">
 	
@@ -195,6 +178,9 @@ DISCLAIMER
 			</div>
 			<br>
 			
+			
+		
+		
 			
 	</div>
 	
@@ -241,6 +227,9 @@ DISCLAIMER
 					<br>
 										
 					
+				
+									
+					
 		</div>
 
 		<div id="switchboxReading" style="float: left;">
@@ -285,6 +274,19 @@ DISCLAIMER
 				<br>
 									
 				
+				
+									
+				<span>New Media and Writing</span>
+				<div class="onoffswitch">
+				<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="switchreading" unchecked>
+				<label class="onoffswitch-label" for="switchreading">
+				<div class="onoffswitch-inner"></div>
+				<div class="onoffswitch-switch"></div>
+				</label>
+				</div>
+				<br>
+									
+				
 		</div>
 </div>
 
@@ -295,9 +297,9 @@ DISCLAIMER
 
 		</div>
 
-<!-- Phase three -->
-
-<div class="panels" id="edit_b" hidden>
+<!-- Step Three -->
+<div class="menus closed" id="revise_label"><span class="menus_text">revise</span></div>
+<div class="panels" id="revise_fields" hidden>
 
 <div class="panel_farleft">
 	<div class="next red" id="edit"><span class="next_text">edit syllabus</span></div>
@@ -307,9 +309,10 @@ DISCLAIMER
 <div class="panel_middle">
 	<ul style="float: left; padding-left: 15px;">Syllabuses express cultural choices, values, and philosophies of learning. Please consult these sources as you revise.
 		<li>Jacqueline Wernimont, "<a href="https://jwernimont.wordpress.com/2015/02/17/build-a-better-dh-syllabus/" target="_blank">Build a Better DH Syllabus</a>."</li>
-		<li>Roopika Risam, "<a href="http://roopikarisam.com/2014/08/27/in-defense-of-learning-outcomes/">In Defense of Learning Outcomes</a>."</li>
+		<li>Roopika Risam, "<a href="http://roopikarisam.com/2014/08/27/in-defense-of-learning-outcomes/" target="_blank">In Defense of Learning Outcomes</a>."</li>
 		<li>Trent Kays, "<a href="http://www.hastac.org/blogs/trentmkays/2014/02/18/04-email-instruction-first-year-writing-courses
 " target="_blank">Email Instruction in First Year Writing Courses</a>."</li>
+<li>And much more in the <a href="/documentation/documentation.html#bibliographyspan-classarrowh2span" target="_blank">Pedagogy Toolkit Bibliography</a>.</li>
 	</ul>
 </div>
 
@@ -324,7 +327,8 @@ DISCLAIMER
     </body>
     
     <script>
-    function downloadInnerHtml(filename, elId, mimeType) {
+    //Function for exporting to txt
+function downloadInnerHtml(filename, elId, mimeType) {
     var elHtml = document.getElementById(elId).textContent;
     var link = document.createElement('a');
     mimeType = mimeType || 'text/plain';
@@ -334,44 +338,46 @@ DISCLAIMER
     link.click();
 }
 
+
+//Function for bottom-box animation and navigation
 var openclose = function(a, b, c){
     $(c).click(function(){
     if(c==="#begin"){
-    			$('#edit_a').css('float', 'left');
-    			$('#add_a').css('float', 'right');
-               $('#prep_a').removeClass('closed');
-               $('#prep_a').addClass('open');
+    			$('#revise_label').css('float', 'left');
+    			$('#remix_label').css('float', 'right');
+               $('#prepare_label').removeClass('closed');
+               $('#prepare_label').addClass('open');
 			$('#intro').toggle(function(){
 	               $(this).hide; 
-	               	$('#prep_b').show();
+	               	$('#prepare_fields').show();
                 });
 setTimeout(function (){
-        $('#add_a').css('float', 'left');
-        $('#edit_a').css('float', 'left');
+        $('#remix_label').css('float', 'left');
+        $('#revise_label').css('float', 'left');
 }, 300);
     }
     if(c==="#prep_next"){
-    	$('#prep_a').css('float', 'left');
-    	$('#add_a').css('float', 'left');
-	    $('#edit_a').css('float', 'right');
-               $('#prep_a').removeClass('open');
-               $('#prep_a').addClass('complete');
-                $('#prep_b').toggle(function(){
+    	$('#prepare_label').css('float', 'left');
+    	$('#remix_label').css('float', 'left');
+	    $('#revise_label').css('float', 'right');
+               $('#prepare_label').removeClass('open');
+               $('#prepare_label').addClass('complete');
+                $('#prepare_fields').toggle(function(){
 	               $(this).hide; 
                 });
-                $('#add_b').toggle(function(){
+                $('#remix_fields').toggle(function(){
 	               $(this).show;
 	            $('#edit').show();
                 });               
     }if(c==="#add_next"){
 		$('.menus').css('float', 'left');
-               $('#add_a').removeClass('open');
-               $('#add_a').addClass('complete');
-                $('#prep_b').hide();
-                $('#add_b').toggle(function(){
+               $('#remix_label').removeClass('open');
+               $('#remix_label').addClass('complete');
+                $('#prepare_fields').hide();
+                $('#remix_fields').toggle(function(){
 	               $(this).hide; 
                 });
-                $('#edit_b').toggle(function(){
+                $('#revise_fields').toggle(function(){
 	               $(this).show; 
                 });
     }
@@ -382,17 +388,33 @@ setTimeout(function (){
                       });
 }
 
+//check for moobile//
+var check = false;
+var mobileCheck = function(){
+    (function(a,b){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od|ad)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))check = true})(navigator.userAgent||navigator.vendor||window.opera);
+    return check;
+}
 
 
 $(document).ready(function(){
 
-                  var n_width = $('#bottom-box').width()/100;
+                  
+                  //mobile redirect
+                mobileCheck();
+                  if(check){
+                  document.location = "/mobile_message.html";
+                  }
+                  
+                  
+                  //Dynamic sizing for bottom-box content
+                  var n_width = $(window).width() / 100;
                   var n_height = $(window).height();
+                  $('#bottom-box').css('width', n_width * 100 + 'px');
                   $('.menus').css('width', n_width * 9.5 + 'px');
                   $('.panels').css('width', n_width * 70 + 'px');
                   $('#intro').css('padding-left', n_width * .5 + 'px');
-                  $('#add_b').css('padding-left', n_width * .5 + 'px');
-                  $('#prep_b').css('padding-left', n_width * .5 + 'px');  
+                  $('#remix_fields').css('padding-left', n_width * .5 + 'px');
+                  $('#prepare_fields').css('padding-left', n_width * .5 + 'px');  
                   $('.panels h1').css('margin-left', "-" + n_width * .4 + 'px');                                    
                   $('panel_middle').css('padding-left', n_width * 2 + 'px');
                   $('#print').hide();
@@ -401,24 +423,27 @@ $(document).ready(function(){
                   $('#edit').hide();
                 
                   
-//                  $('body').css({
-//                                              opacity: '.1',
-//                  })
-//                  $('#alert').css({
-//                                  opacity: '.5',
-//                                  })
+                  //Show bibliography
                   
-                  $('.bib').click(function(){
-                                  $('#bib').toggle(function(){
-	                                 this.show(); 
-                                  });
-                                  });
+                  var unchecked;
+                  unchecked = true;
                   
-                  //BOTTOM-BOX STUFF
+                  $('#syllabus_bibliography').click(function(){
+                                                    if(unchecked){
+$('#SyllabusSpan').prepend("<span id='syllabus_contributors'> Contributors: Constance Crompton, Lisa Gitelman, Steve Jones, Amanda Licastro, Eric Rettberg, Janine Utell, Jacqueline Wernimont</span>");
+                                                    unchecked = false;
+                                                    }else{
+                                                    $('#syllabus_contributors').remove();
+                                                    unchecked = true;
+                                                    }
+                                                    });
+
+                  
+                  //Navigation and animation for bottom-box content
                   $('.menus').addClass('closed');
-                  openclose('#prep_a', '#prep_b', '#begin');
-                  openclose('#add_a', '#add_b', '#prep_next');
-                  openclose('#edit_a', '#edit_b', '#add_next');
+                  openclose('#prepare_label', '#prepare_fields', '#begin');
+                  openclose('#remix_label', '#remix_fields', '#prep_next');
+                  openclose('#revise_label', '#revise_fields', '#add_next');
                   $('#prep_next').click(function(){
                                         var course = $('#course').val();
                                         var instructor = $('#instructor').val();
@@ -456,8 +481,8 @@ $(document).ready(function(){
                                    $('#SyllabusDoc').attr('contentEditable',false);
                                    $('#SyllabusDoc').find('*').append('\n');
                                    $('#SyllabusDoc').removeClass('hot');
-                                        $('#edit_a').removeClass('open');
-                                        $('#edit_a').addClass('complete');
+                                        $('#revise_label').removeClass('open');
+                                        $('#revise_label').addClass('complete');
                                         //$('#edit').hide();
                                         //$(this).hide();
                                         $('#edit').removeClass('red');
@@ -469,12 +494,14 @@ $(document).ready(function(){
                                                            });
                                    });
                   
-                  var fileName = 'syllabus.txt'; // You can use the .txt extension if you want
+                  //Call the export to txt function
+                  var fileName = 'syllabus.txt';
                   $('#print').click(function(){
-                                    downloadInnerHtml(fileName, 'SyllabusDoc', 'text/plain');
+                                    downloadInnerHtml(fileName, 'SyllabusSpan', 'text/plain');
                                     });
                   
                   
+                //Append JSON data to SyllabusSpan
                   
                   
                   
@@ -497,7 +524,7 @@ $(document).ready(function(){
                   
                   $('#switchENGL135reading').on('change', function() {
                                                          if ($(this).is(':checked')) {
-                                                         $("#readingme").append("<p id='ENGL135reading'>" + "Composition Technologies: \n N. Katherine Hayles, How We Read: Close, Hyper, Machine<br> Naomi S. Baron, Redefining Reading: The Impact of Digital Communication Media PMLA (2013)<br> Betsy Sparrow, Jenny Liu, and Daniel M. Wegner, Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips, Science (2011)<br> Jerome McGann, Radiant Textuality: Literature After the World Wide Web (2001), pp. 1-28, 137-166, 193-208<br> Whitney Trettien, A Deep History of Electronic Textuality<br> DHQ; Bonnie Mak, Archaeology of a Digitization, JASIST.<br> Ferris Jabr, Why the Brain Prefers Paper. Scientific American (November 2013) Borges. The Library of Babel<br> Campbell-Kelly, Martin et al. “The World Wide Web.” Computer : A History of the Information Machine. 3rd ed. New York: Westview Press, 2013. 286–305. Print.<br> Cohen, Dan. “The Social Contract of Scholarly Publishing.” Debates in the Digital Humanities. Ed. Matthew Gold. Minneapolis, MN: U Minnesota P, 2012. 319–321. Print. <CR>" + "</p>");
+                                                         $("#readingme").append("<p id='ENGL135reading'>" + "Composition Technologies: \n N. Katherine Hayles, How We Read: Close, Hyper, Machine<br> Naomi S. Baron, Redefining Reading: The Impact of Digital Communication Media. PMLA (2013)<br> Betsy Sparrow, Jenny Liu, and Daniel M. Wegner. Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips, Science (2011)<br> Jerome McGann, Radiant Textuality: Literature After the World Wide Web (2001), pp. 1-28, 137-166, 193-208<br> Whitney Trettien, A Deep History of Electronic Textuality<br> DHQ; Bonnie Mak, Archaeology of a Digitization, JASIST<br> Ferris Jabr, “Why the Brain Prefers Paper.” Scientific American (November 2013)<br> Borges. The Library of Babel<br> Campbell-Kelly, Martin et al. “The World Wide Web.” Computer : A History of the Information Machine. 3rd ed. New York: Westview Press, 2013. 286–305. Print.<br> Cohen, Dan. “The Social Contract of Scholarly Publishing.” Debates in the Digital Humanities. Ed. Matthew Gold. Minneapolis, MN: U Minnesota P, 2012. 319–321. Print. <br>" + "</p>");
                                                          } else {
                                                          $('#ENGL135reading').remove();
                                                          }
@@ -525,7 +552,7 @@ $(document).ready(function(){
                   
                   $('#switchENGL301reading').on('change', function() {
                                                          if ($(this).is(':checked')) {
-                                                         $("#readingme").append("<p id='ENGL301reading'>" + "Digital Mapping: \n  Jo Guldi, What Is the Spatial Turn?<br> David J. Bodenhamer, The Potential of Spatial Humanities<br> Johanna Drucker, Humanistic Theory and Digital Scholarship and Humanities Approaches to Graphical Display<br> Bethany Nowviskie, Neatline and Visualization as Interpretation<br> Samuels and McGann, Deformance and Interpretation<br> Franco Moretti, Distant Reading<br> Denis Wood, A Map Is an Image Proclaiming Its Objective Neutrality<br> Harley, Deconstructing the Map<br> Breton, André. Sur certaines possibilities d’embellissement irrationnel d’une ville.<br> " + "</p>");
+                                                         $("#readingme").append("<p id='ENGL301reading'>" + "Digital Mapping: \n  Jo Guldi, “What Is the Spatial Turn?”<br> David J. Bodenhamer, “The Potential of Spatial Humanities”<br> Johanna Drucker, “Humanistic Theory and Digital Scholarship” and “Humanities Approaches to Graphical Display”<br> Bethany Nowviskie, “Neatline and Visualization as Interpretation”<br> Samuels and McGann, “Deformance and Interpretation”<br> Franco Moretti, Distant Reading<br> Denis Wood, “A Map Is an Image Proclaiming Its Objective Neutrality”<br> Harley, “Deconstructing the Map”<br> Breton, André. “Sur certaines possibilities d’embellissement irrationnel d’une ville.”<br> " + "</p>");
                                                          } else {
                                                          $('#ENGL301reading').remove();
                                                          }
@@ -553,9 +580,37 @@ $(document).ready(function(){
                   
                   $('#switchDH100reading').on('change', function() {
                                                          if ($(this).is(':checked')) {
-                                                         $("#readingme").append("<p id='DH100reading'>" + "Digital Games: \n  Mary Flanagan, Critical Play: Radical Game Design (Introduction, Ch. 2. Playing House (17-62) and and Ch. 7 Critical Computer Games (222-249).<br> Janine Fron, Tracy Fullerton, Jacquelyn Ford Morie, and Celia Pearce, “The Hegemony of Play”<br> Bonsignore, E.,* Hansen, D., Kraus, K., & Ruppel, M.* (2013). Alternate Reality Games as platforms for practicing 21st -century literacies. International Journal of Learning and Media<br> Liz Losh, “#Gamergate 101″ date: 10/17<br> Kraus, K. (2011). “A counter-friction to the machine”: What game scholars, librarians, and archivists can learn from machinima makers about user activism. Special commissioned issue on machinima. Journal of Visual Culture 10(1), 100-112<br> Bogost, Perpetual Adolescence, Proteus, Exploitationware, Shit Crayons<br> Wark, Gamer Theory, Agony: On The Cave<br> Kaplan and Zimmerman, PLAY<br> Jones and Thiruvathukal, from Codename Revolution (esp. chptrs. 1, 6, 7)<br> Belojevic et. al., A Select Annotated Bibliography Concerning Game-Design Models for Digital Social Knowledge Creation<br> " + "</p>");
+                                                         $("#readingme").append("<p id='DH100reading'>" + "Digital Games: \n  Mary Flanagan, Critical Play: Radical Game Design (Introduction, Ch. 2. Playing House (17-62) and and Ch. 7 Critical Computer Games (222-249).<br> Janine Fron, Tracy Fullerton, Jacquelyn Ford Morie, and Celia Pearce, “The Hegemony of Play”<br> Bonsignore, E., Hansen, D., Kraus, K., & Ruppel, M. (2013). Alternate Reality Games as platforms for practicing 21st -century literacies. International Journal of Learning and Media<br> Liz Losh, “#Gamergate 101″<br> Kraus, K. (2011). “A counter-friction to the machine”: What game scholars, librarians, and archivists can learn from machinima makers about user activism. Special commissioned issue on machinima. Journal of Visual Culture 10(1), 100-112<br> Bogost, Perpetual Adolescence, Proteus, Exploitationware, Shit Crayons<br> Wark, Gamer Theory, Agony: On The Cave<br> Kaplan and Zimmerman, PLAY<br> Jones and Thiruvathukal, from Codename Revolution (esp. chptrs. 1, 6, 7)<br> Belojevic et. al., “A Select Annotated Bibliography Concerning Game-Design Models for Digital Social Knowledge Creation”<br> " + "</p>");
                                                          } else {
                                                          $('#DH100reading').remove();
+                                                         }
+                                                         
+                                                         });
+                  
+                  
+                  
+                  $('#switchexpectations').on('change', function() {
+                                                              if ($(this).is(':checked')) {
+                                                              $("#learningme").append("<div id='expectations'>" + "" + "</div>\n");
+                                                              } else {
+                                                              $("#expectations").hide();
+                                                              }
+                                                              });
+                  
+                  
+                  $('#switchattendance').on('change', function() {
+                                                            if ($(this).is(':checked')) {
+                                                            $("#attendanceme").append("<p id='attendance'>" + "\n  \n" + "</p>");     
+                                                            } else {
+                                                            $('#attendance').remove();
+                                                            }
+                                                            });
+                  
+                  $('#switchreading').on('change', function() {
+                                                         if ($(this).is(':checked')) {
+                                                         $("#readingme").append("<p id='reading'>" + "New Media and Writing: \n  Kristen Arola, Jennifer Sheppard, Cheryl Ball. Writer/Designer: A Guide to Making Multimodal Projects.<br> Lisa Gitelman. Paper Knowledge: Toward a Media History of Documents.<br> Lev Manovich. The Language of New Media.<br> Jussi Parikka.“The Geology of Media.” The Atlantic. http://www.theatlantic.com/technology/archive/2013/10/the-geology-of- media/280523/<br> E. M. Forster. “The Machine Stops.” (full text online) http://archive.ncsa.illinois.edu/prajlich/forster.html<br> Marshall McLuhan, Understanding Media: The Extensions of Man: The Medium is the Message; The Spoken Word: Flower of Evil?; The Written Word: An Eye for an Ear<br> Friedrich Kittler, “The History of Communication Media,” CTHEORY (July 1996, web)<br> Amaranth Borsuk, Jesper Juul and Nick Montfort, The Deletionist bookmarklet, “a concise system for automatically producing an erasure poem from any Web page.”<br> Jerome McGann, Radiant Textuality: Literature After the World Wide Web (2001)<br> Anne Friedberg, The Virtual Window: From Alberti to Microsoft (2009): 5. The Multiple; Conclusion: The Future of Windows: Smart Glass, Streaming Portals, and Screenless Images<br> Johanna Drucker, “Reading Interface,” PMLA (2013)<br> Between Page and Screen<br> N. Katherine Hayles, “How We Read: Close, Hyper, Machine”<br> Electronic Literature Collection, vol. 2 (2011)<br> " + "</p>");
+                                                         } else {
+                                                         $('#reading').remove();
                                                          }
                                                          
                                                          });

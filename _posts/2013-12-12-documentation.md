@@ -110,23 +110,66 @@ One-word headers also work as html anchors.
 
 Using Git and the GitHub client, the toolkit can be be deployed as a teaching cloud or  a teaching website hosted via GitHub pages. Use the repository to push updated teaching material to the cloud and access it from anywhere. Or take your teaching further by turning your repository into an open source teaching website, reusing the code from this website or by using a [website template](https://github.com/axchristie/test/tree/templates) from the "templates" fork. All code is designed for [GitHub Pages](http://pages.github.com/) and [Jekyll](http://jekyllrb.com/) with extensibility and reusability in mind. Comments and additions are welcome.
 
-##Inspirations<span class="arrowh2"></span>
-The field of digital pedagogy is a diverse and exciting one, and Pedagogy Toolkit draws inspiration from the following projects, journals, and organizations. Take a look at their fantastic work.
+##Bibliography<span class="arrowh2"></span>
 
-[DHSI](http://dhsi.org/): [Digital Pedagogy](http://lmc.gatech.edu/~djakacki3/blog/2012/06/17/digital-pedagogy-at-dhsi-part-the-second/)
+###Projects<span class="arrowh3"></span>
 
-[Digital Pedagogy Keywords](http://www.slideshare.net/rebeccadavis/digital-pedagogy-keywords)
+Armoza, Jonathan, Leigh Bonds, et. al., eds.  (Overseen by a [steering/curatorial board](http://dirtdirectory.org/steeringcuratorial-board) and [editorial board](http://dirtdirectory.org/editorial-board).) [DiRT Directory](http://dirtdirectory.org/). Dirtdirectory.org, n.d. Web. 15 May 2015.
 
-[DiRT Directory](http://dirtdirectory.org/)
+Ball, Cheryl, Douglas Eyman, et. al., eds. *[Kairos: A Journal of Rhetoric, Technology, and Pedagogy](http://kairos.technorhetoric.net/ )*. Kairos.technorhetoric.net, Summer 2015. Web. 15 May 2015. 
 
-[HASTAC](http://www.hastac.org/): [The Pedagogy Project](http://www.hastac.org/pedagogy-project/pedagogy-project)
+Barnett, Fiona, Staci Stutsman, Amanda Starling Gould, Kalle Westerling, eds. "[The Pedagogy Project](http://www.hastac.org/pedagogy-project/pedagogy-project)." *HASTAC*. HASTAC, n.d. Web. 15 May 2015. 
 
-[Hybrid Pedagogy](http://www.hybridpedagogy.com/)
+Buckner, Brandon, Dan Lawson, Tim Lockridge, Matthew Vollmer. [Outcome-Centered Electronic Library of Teaching Resources (O.C.E.L.O.T.)](http://www.ocelot.english.vt.edu/). Ocelot, 2015. Web. 15 May 2015.
 
-[JiTP](http://jitp.commons.gc.cuny.edu/): [Assignments](http://jitp.commons.gc.cuny.edu/category/assignments/)
+[The Digital Repository for Academic Writing (DRAW)](http://draw.isucomm.iastate.edu/). ISUComm, 2015. Web. 15 May 2015.
 
-[Kairos](http://kairos.technorhetoric.net/)
+Frost Davis, Rebecca, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers, eds. *[Digital Pedagogy in the Humanities: Concepts, Models, and Experiments](https://github.com/curateteaching/digitalpedagogy/blob/master/announcement.md).* GitHub, Inc., 19 Dec. 2014. Web. 15 May 2015.
 
-[Learning Through Digital Media](http://learningthroughdigitalmedia.net/): [Learning Toolkit](http://learningthroughdigitalmedia.net/a-digital-learning-tool-kit)
+Harris, Katherine D., ed. "[Technology and the Classroom](http://technologyandtheclassroom.pbworks.com/w/page/21104925/FrontPage)." PBworks, 7 Dec. 2012. Web. 15 May 2015.
 
-And so many more...
+"[Lesson Plans](http://lessonplans.dwrl.utexas.edu/)." *Digital Writing & Research Lab (DWRL)."* Dwrl.utexas.edu, n.d. Web. 15 May 2015. 
+
+Sava Saheli Singh, ed. "[JiTP Assignments](http://jitp.commons.gc.cuny.edu/category/assignments/)." *The Journal of Interactive Technology & Pedagogy (JiTP)*. JiTP, 21 May 2015. Web. 25 May 2015. 
+
+Scholz, R. Trebor, ed. "[A Digital Learning Tool Kit](http://learningthroughdigitalmedia.net/a-digital-learning-tool-kit)." *Learning through Digital Media: Experiments in Technology and Pedagogy*.  Learning Through Digital Media, 31 March 2011. Web. 15 May 2015.
+
+###Texts<span class="arrowh3"></span>
+
+Bemer, Amanda; Moeller, Ryan M.; & Ball, Cheryl E.  "[Designing collaborative learning spaces: Where material culture meets mobile writing processes](http://www.cptsc.org/pp/vol1-2/bemer_moeller_ball1-2.pdf)." *Programmatic Perspectives: Journal of the Council for Programs in Technical and Scientific Communication*. 1(2), Sept 2009: 139-166.
+
+Bjork, Olin. "[Digital Humanities and the First-Year Writing Course](http://www.openbookpublishers.com/htmlreader/DHP/chap04.html)" *Digital Humanities Pedagogy: Practices, Principles and Politics.* [S.l.] : Open Book Publishers, 2012.
+
+Davidson, Cathy. "[Essential Tool Kit for Peer Learning and Peer Teaching](http://www.hastac.org/blogs/cathy-davidson/2013/06/04/essential-tool-kit-peer-learning-and-peer-teaching)." *HASTAC.* HASTAC, 4 June 2013. Web. 22 May 2015. 
+
+Ellsworth, Elizabeth. "[The Wicked Problem of Pedagogy, An Afterword](http://learningthroughdigitalmedia.net/the-wicked-problem-of-pedagogy-an-afterword)." *Learning through Digital Media: Experiments in Technology and Pedagogy*.  Scholz, R. Trebor, ed. 2011.
+
+Frost Davis, Rebecca. "[Digital Pedagogy Keywords](http://www.slideshare.net/rebeccadavis/digital-pedagogy-keywords)." Slideshare.net, 20 Feb. 2013. Web. 10 May 2015.
+
+Fyfe, Paul. "[The Scale of Digital Pedagogy](https://www.youtube.com/watch?v=-xIxb5Bil5s)." 2014.
+
+Heidebrink-Bruno, Adam. "[Syllabus as Manifesto: A Critical Approach to Classroom Culture](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)." *Hybrid Pedagogy*.  Hybrid Pedagogy, 28 August 2014. Web. 15 May 2015.
+
+--- "[Envisioning the Radical Syllabus: A Critical Approach to Classroom Culture, Part 2](http://www.hybridpedagogy.com/journal/envisioning-radical-syllabus-critical-approach-classroom-culture-part-2/)." *Hybrid Pedagogy*.  Hybrid Pedagogy, 20 Jan. 2015. Web. 15 May 2015. 
+
+Jakacki, Diane. "[Digital Pedagogy at DHSI](http://lmc.gatech.edu/~djakacki3/blog/2012/06/17/digital-pedagogy-at-dhsi-part-the-second/)." Lmc.gatech.edu, 17 June 2012. Web. 10 May 2015.
+
+Kays, Trent. "[Email Instruction in First Year Writing Courses](http://www.hastac.org/blogs/trentmkays/2014/02/18/04-email-instruction-first-year-writing-courses)." The Pedagogy Project. *HASTAC*. HASTAC, 18 Feb. 2014. Web. 15 May 2015.
+
+Kules, Bill. "[Learning to Take a Learner’s Perspective](http://jitp.commons.gc.cuny.edu/learning-to-take-a-learners-perspective/)." Teaching Fails. *JiTP*. JiTP, n.d. Web. 15 May 2015.
+
+Losh, Elizabeth. "[YouTube Pedagogy: Finding Communities of Practice in a Distributed Learning World](http://learningthroughdigitalmedia.net/youtube-pedagogy-finding-communities-of-practice-in-a-distributed-learning-world)." *Learning through Digital Media: Experiments in Technology and Pedagogy*.  Scholz, R. Trebor, ed. 2011.
+
+Nowviskie, Bethany. "[Supporting Practice in Community](http://nowviskie.org/2015/practice-in-community/)." Nowviskie.org, 1 May 2015. Web 15 May 2015. 
+
+Risam, Roopika. "[In Defense of Learning Outcomes](http://roopikarisam.com/2014/08/27/in-defense-of-learning-outcomes/)." Roopikarisam.com, 27 August 2014. Web. 15 May 2015.
+
+Robin, Valerie. "[Addressing the Elephant: The Importance of Infrastructure](http://www.hybridpedagogy.com/journal/addressing-elephant-importance-infrastructure/)." *Hybrid Pedagogy*.  Hybrid Pedagogy, 15 Oct. 2014. Web. 15 May 2015. 
+
+Scholz, R. Trebor. "[Introduction: Learning Through Digital Media" Learning Through Digital Media Experiments in Technology and Pedagogy](http://learningthroughdigitalmedia.net/introduction-learning-through-digital-media)." *Learning through Digital Media: Experiments in Technology and Pedagogy*.  Learning Through Digital Media, 31 March 2011. Web. 15 May 2015.
+
+Spiro, Lisa. "[What are the Costs of Not Sharing](http://mediacommons.futureofthebook.org/question/what-are-major-sociallegalprofessional-stakes-sharing-online/response/what-are-costs-not-sh )." MediaCommons, 11 Mar 2013. Web. 15 May 2015. 
+
+Stommel, Jesse. "[Learning is not a Mechanism](http://www.hybridpedagogy.com/journal/repost/learning-not-mechanism/)."  *Hybrid Pedagogy*. Hybrid Pedagogy, 28 April 2015. Web. 15 May 2015. 
+
+Wernimont, Jacqueline. "[Build a Better DH Syllabus](https://jwernimont.wordpress.com/2015/02/17/build-a-better-dh-syllabus/)."  Jwernimont.wordpress.com, 18 Feb 2015. Web. 15 May 2015.

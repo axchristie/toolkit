@@ -3,7 +3,7 @@ layout: syllabus
 ---
 
 <div class="menu">
-<section id="grid">
+<section id="grid_center">
     {% for post in site.posts %}
     	   {% if post.categories contains 'syllabus' %}
 			<a class="tile {{ post.picture }}" href="{{ site.baseurl }}{{ post.url }}"><div class="button"><p>{{ post.title }}</p></div></a>
