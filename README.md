@@ -133,3 +133,51 @@ Posts are written in a format called markdown. Here are a few quick starters
 ![](http: https://media4.giphy.com/media/QUEFPDQhw89bi/200_s.gif “this is an image”)[This is a link]( https://media4.giphy.com/media/QUEFPDQhw89bi/200_s.gif)
 
 ```
+
+###Adding a video
+
+Youtube videos can be added in markdown using the following. The string between “/v/” and “&amp” (here, “92eAN0Bjd84”) is taken from the original youtube URL.
+
+```html
+<object width="480" height="385" style="max-width: 100%;"><param name="movie" value="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/92eAN0Bjd84&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385" style="max-width: inherit;"></embed></object>
+```
+###Adding a file 
+
+New files can be added to the repository using the GitHub Client or Git. Files are located in the assets folder and the link provided should use Google Docs Viewer along with a static URL for the raw hosted file. See the following example for reference.
+
+```
+* [Millington, "The Playboy of the Western World](http://docs.google.com/viewer?url=https://github.com/axchristie/test/blob/gh-pages/assets/docs/sample_texts/drama/SP146_Playboy.doc?raw=true)
+ ```
+ 
+###More Markdown
+
+Learn more about mardown at https://help.github.com/articles/github-flavored-markdown/ and http://daringfireball.net/projects/markdown/ .
+
+##Sorting posts by category
+
+Open index.html and view at the following code:
+
+```html
+    {% for post in site.posts %}	    	   {% if post.categories contains 'content' %}				<a class="tile {{ post.picture }}" href="{{ site.baseurl }}/{{ post.url }}"><div class="label"><p>{{ post.title }}</p></div></a>				{% endif %}	    {% endfor %}```
+
+This code displays each post with the category 'content' on this index.html page. If you would like a post to appear on this page, simply write 'content' for its category in the frontmatter. Conversely, if you would like a different category of post to appear on this page (say, 'texts'), simply replace 'content' in the code above with 'texts.' Any posts with the category you have entered witll not appear on this page.
+
+#Congratulations!
+
+You now have you own project website that corresponds to an open source, social repository on GitHub.
+
+Please keep in touch! Feel free to share your websites, code, throughts, comments, and feedback with me. I would be thrilled to hear about your work and the ways in which it extends, expands, and improves this basic template.
+
+#Next steps: going further
+
+##Finding content for your repository
+
+There are teaching resources and guides online via the Pedagogy Toolkit project at http://pedagogy-toolkit.org/ . Feel free to populate your repository with this content.What other sources of information might people suggest?
+
+##Going further with GitHub / Changing the look and layout of your site
+
+Examples of current teaching websites created with this framework are available as at http://axchristie.github.io/ENGL135/  and http://axchristie.github.io/English147/ If you would like to dig deeper into the production and design of websites using GitHub, read more about GitHub pages at https://pages.github.com/ and see the documentation for Jekyll at http://jekyllrb.com/ .
+
+##Fork the main Pedagogy Toolkit branch
+
+The Pedagogy Toolkit project is built upon the same principles as the templates branch. Feel free to repurpose the Toolkit framework, code, and resources to fit your own local and institutional needs.
