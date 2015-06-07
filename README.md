@@ -1,13 +1,14 @@
-Documentation
+Getting Started with Pedagogy Toolkit Templates
 ====
-# Building Social Repositories and Extending their Applications 
-## Getting Started with Pedagogy Toolkit Templates
+## Building Social Repositories and Extending their Applications 
+
+##Social Knowledge Creation in the Humanities | DHSI 2015 
 
 Read more about the templates branch in the [Pedagogy Toolkit documentation](http://pedagogy-toolkit.org/documentation/documentation.html#teach-in-the-cloudspan-classarrowh2span).
 
 #Getting started with GitHub
 
-Sign-up for a GitHub account at https://github.com/join 
+Sign-up for a GitHub account at https://github.com/join .
 
 As soon as you have created an account, be sure to verify your e-mail. You will receive an automated e-mail from GitHub (do this straight away).
 
@@ -94,4 +95,26 @@ Each menu option corresponds to a page variable in the config.yml file. Replace 
 
 You may also change the "name" and "subtitle" variables to update the title of your site.
 
-Edit the config.yml file and see the changes go live on your site! You will need to update the folder names and post categories manually to reflect the changes you've made (we will return to this process in step n).
+Edit the config.yml file and see the changes go live on your site! You will need to update the folder names and post categories manually to reflect the changes you've made (we will return to this process later).
+
+##Editing posts
+
+Posts correspond to individual pages on your website. Each post is filtered into a different category, and each category of posts appears on a different index.html page. You may edit existing posts as well as create your own.
+
+##Frontmatter
+
+This section allows you to configure basic information about the post.
+
+Title: this variable stores the title of the post/page.
+Categories: this variable categorizes the post, with the category for each main navigation page listed in its index.html file.
+Images: this variable stores the image associated with the post.
+
+Image options include the following words: books, bluebook, hamlet, clueless, focus, feather, typecase, TBA.
+
+To add your own images, upload the image file to assets/images (this must be done using the GitHub client or Git) and add a corresponding entry for the image in style.css. Images must be roughly 225 x 150 pixels. For example, here is the css entry for the TBA image:
+
+```css
+.TBA{
+	background-image:url(../assets/images/TBA.jpg);
+}
+```
