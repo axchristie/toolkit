@@ -60,7 +60,7 @@ Your website is not viewable online at yourusername.github.io/yourrepository nam
 
 Your project site is now live. Congratulations!
 
-#Step Three: Configuring your project site
+#Step 3: Configuring your project site
 
 ##3.a) The basic layout of the repository
 
@@ -151,7 +151,7 @@ New files can be added to the repository using the GitHub Client or Git. Files a
 
 Learn more about mardown at https://help.github.com/articles/github-flavored-markdown/ and http://daringfireball.net/projects/markdown/ .
 
-#Step Four: Sorting posts by category
+#Step 4: Sorting posts by category
 
 Open index.html and view at the following code:
 
