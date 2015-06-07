@@ -118,3 +118,18 @@ To add your own images, upload the image file to assets/images (this must be don
 	background-image:url(../assets/images/TBA.jpg);
 }
 ```
+
+##Editing posts in markdown
+
+Posts are written in a format called markdown. Here are a few quick starters
+
+```
+#This is a header
+
+##This is a second-level header
+
+* This is a bullet point item
+
+![](http: https://media4.giphy.com/media/QUEFPDQhw89bi/200_s.gif “this is an image”)[This is a link]( https://media4.giphy.com/media/QUEFPDQhw89bi/200_s.gif)
+
+```
