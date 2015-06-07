@@ -1,12 +1,10 @@
 Getting Started with Pedagogy Toolkit Templates
 ====
-## Building Social Repositories and Extending their Applications 
-
-##Social Knowledge Creation in the Humanities | DHSI 2015 
+## Building Social Repositories and Extending their Applications  | Social Knowledge Creation in the Humanities | DHSI 2015 
 
 Read more about the templates branch in the [Pedagogy Toolkit documentation](http://pedagogy-toolkit.org/documentation/documentation.html#teach-in-the-cloudspan-classarrowh2span).
 
-#Getting started with GitHub
+#Step 1: Getting started with GitHub
 
 Sign-up for a GitHub account at https://github.com/join .
 
@@ -14,9 +12,9 @@ As soon as you have created an account, be sure to verify your e-mail. You will 
 
 In the following steps, we will deal with basic branching and forking. Read more about these and other aspects of Git and Github at https://help.github.com/ and https://git-scm.com/ .
 
-#Setting up your website
+#Step 2: Setting up your website
 
-##Forking Pedagogy Toolkit
+##2.a) Forking Pedagogy Toolkit
 
 Naviagte to the Pedagogy Toolkit repository and view the "templates" branch at https://github.com/axchristie/toolkit/tree/templates .
 
@@ -24,7 +22,7 @@ Now we will copy the Pedagogy Toolkit source code to your account. Click "fork" 
 
 ![](http://acrl.ala.org/techconnect/wp-content/uploads/2013/05/github-fork-btn.png)
 
-##Configuring your repository
+##2.b) Configuring your repository
 
 You are now viewing your copy of the Pedagogy Toolkit code, which you can repurpose for your own projects. Let's set up your repository.
 
@@ -40,13 +38,13 @@ Now return to settings and switch the default branch back to gh-pages.
 
 **We will now edit and configure your website. Make sure you are working on the gh-pages branch (you may delete the old "templates" branch if you wish).
 
-##Getting started with editing
+##2.c) Getting started with editing
 
 You may either work directly on the GitHub website or download the GitHub client if you prefer to work locally. If you're not sure where to start, I suggest working online first and downloading the client at the end of today's workshop.
 
 The GitHub client is available for download at https://mac.github.com/  and https://windows.github.com/ https://mac.github.com/  .
  
-##Lauching your project site
+##2.d) Lauching your project site
 
 The current name of your website is "toolkit." If you would like to change the name of your site,  you may do so by changing the repository name in "Settings."
 
@@ -62,9 +60,9 @@ Your website is not viewable online at yourusername.github.io/yourrepository nam
 
 Your project site is now live. Congratulations!
 
-#Configuring your project site
+#Step Three: Configuring your project site
 
-##The basic layout of the repository
+##3.a) The basic layout of the repository
 
 Congratulations! You now have a socially editable repository that corresponds to an active website. Updates made to this repository will automatically update the website, allowing you to easily design and share web content with students, colleagues, and so on. You may socially author your repository with other users on GitHub.
 
@@ -89,7 +87,7 @@ This file will display as a webpage online. For instance, the index.html file in
 
 Each of the above folders corresponds to a different page, and each page corresponds to a different variable in the config.yml file. For instance, "activites" is stored under the variable "page2" in the config.yml file.
 
-##Editing main navigation items
+##3.b) Editing main navigation items
 
 Each menu option corresponds to a page variable in the config.yml file. Replace these variables with your own options to edit the main navigation bar.
 
@@ -97,7 +95,7 @@ You may also change the "name" and "subtitle" variables to update the title of y
 
 Edit the config.yml file and see the changes go live on your site! You will need to update the folder names and post categories manually to reflect the changes you've made (we will return to this process later).
 
-##Editing posts
+##3.c) Preparing posts
 
 Posts correspond to individual pages on your website. Each post is filtered into a different category, and each category of posts appears on a different index.html page. You may edit existing posts as well as create your own.
 
@@ -119,7 +117,7 @@ To add your own images, upload the image file to assets/images (this must be don
 }
 ```
 
-##Editing posts in markdown
+##3.d) Editing posts in markdown
 
 Posts are written in a format called markdown. Here are a few quick starters
 
@@ -153,7 +151,7 @@ New files can be added to the repository using the GitHub Client or Git. Files a
 
 Learn more about mardown at https://help.github.com/articles/github-flavored-markdown/ and http://daringfireball.net/projects/markdown/ .
 
-##Sorting posts by category
+#Step Four: Sorting posts by category
 
 Open index.html and view at the following code:
 
