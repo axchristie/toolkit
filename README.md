@@ -45,7 +45,7 @@ You may either work directly on the GitHub website or download the GitHub client
 
 The GitHub client is available for download at https://mac.github.com/  and https://windows.github.com/ https://mac.github.com/  .
  
-##Website URL
+##Lauching your project site
 
 The current name of your website is "toolkit." If you would like to change the name of your site,  you may do so by changing the repository name in "Settings."
 
@@ -59,6 +59,39 @@ Click "commit changes" to save your update. Congratulations on your first commit
 
 Your website is not viewable online at yourusername.github.io/yourrepository name (i.e., axchristie.github.io/ENGL135 ). It may take a few minutes for changes you have made to appear online.
 
+Your project site is now live. Congratulations!
+
+#Configuring your project site
+
 ##The basic layout of the repository
 
 Congratulations! You now have a socially editable repository that corresponds to an active website. Updates made to this repository will automatically update the website, allowing you to easily design and share web content with students, colleagues, and so on. You may socially author your repository with other users on GitHub.
+
+Let's examine the broad structure of your repository. There are three main types of folders present.
+
+These correspond to code you may wish to edit later on:
+_layout
+_site
+css
+
+This is where we will add and edit site pages:
+_posts
+
+This is where we will add and edit main navigation pages:
+index.html
+Activities/index.html
+Resources/index.html
+Contact
+
+*about the index.html file
+This file will display as a webpage online. For instance, the index.html file in the main directory corresponds to the homepage for your site. There are also index.html files in the "Activites," "Resources," and "Contact" folders, and they correspond to the different navigation links you may follow on the site.
+
+Each of the above folders corresponds to a different page, and each page corresponds to a different variable in the config.yml file. For instance, "activites" is stored under the variable "page2" in the config.yml file.
+
+##Editing main navigation items
+
+Each menu option corresponds to a page variable in the config.yml file. Replace these variables with your own options to edit the main navigation bar.
+
+You may also change the "name" and "subtitle" variables to update the title of your site.
+
+Edit the config.yml file and see the changes go live on your site! You will need to update the folder names and post categories manually to reflect the changes you've made (we will return to this process in step n).
