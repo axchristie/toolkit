@@ -36,7 +36,7 @@ Return to the repository once more and click "branch: templates." Type "gh-pages
 
 Now return to settings and switch the default branch back to gh-pages.
 
-**We will now edit and configure your website. Make sure you are working on the gh-pages branch (you may delete the old "templates" branch if you wish).
+**We will now edit and configure your website. Make sure you are working on the gh-pages branch (you may delete the old "templates" branch if you wish).**
 
 ##2.c) Getting started with editing
 
@@ -164,7 +164,7 @@ This code displays each post with the category 'content' on this index.html page
 
 You now have you own project website that corresponds to an open source, social repository on GitHub.
 
-Please keep in touch! Feel free to share your websites, code, throughts, comments, and feedback with me. I would be thrilled to hear about your work and the ways in which it extends, expands, and improves this basic template.
+Please keep in touch! Feel free to share your websites, code, thoughts, comments, and feedback with me. I would be thrilled to hear about your work and the ways in which it extends, expands, and improves this basic template.
 
 #Next steps: going further
 
