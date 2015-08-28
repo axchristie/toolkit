@@ -112,6 +112,8 @@ One-word headers also work as html anchors.
 
 The [syllabus section](http://pedagogy-toolkit.org/syllabus/) contains a selection of online syllabuses that cross digital humanities, digital literary studies, and digital rhetoric and composition. These may be used in conjunction with the [Syllabus Templating Tool](http://pedagogy-toolkit.org/syllabus/syllabus_builder.html) to produce a downloadable syllabus template designed for further revision. The tool allows users to remix and edit components of existing online syllabuses to produce a draft course syllabus, including resources that invite teachers to reflect upon the cultural choices, values, and philosophies of learning that figure into the process of syllabus production.
 
+New syllabus components can be added to the tool in JSON format. When pushed to the toolkit's [syllabus data directory](https://github.com/axchristie/toolkit/tree/gh-pages/_data/syllabus), syllabuses expressed in JSON will be automatically added to the templating tool. See existing JSON files for the formatting conventions used by the tool.
+
 ###Create a teaching website<span class="arrowh3"></span>
 
 The [templates branch](https://github.com/axchristie/test/tree/templates) contains open source code that lets users produce their own course sites. To create a teaching site, simply follow the readme guide on the templates branch--no previous coding experience is required. All code is designed for [GitHub Pages](http://pages.github.com/) and [Jekyll](http://jekyllrb.com/) with extensibility and reusability in mind. Comments and additions are welcome.
