@@ -106,9 +106,19 @@ Headers
 One-word headers also work as html anchors.
 
 
-##Teach in the cloud<span class="arrowh2"></span>
+##Create online course materials<span class="arrowh2"></span>
 
-Using Git and the GitHub client, the toolkit can be be deployed as a teaching cloud or  a teaching website hosted via GitHub pages. Use the repository to push updated teaching material to the cloud and access it from anywhere. Or take your teaching further by turning your repository into an open source teaching website, reusing the code from this website or by using a [website template](https://github.com/axchristie/test/tree/templates) from the "templates" fork. All code is designed for [GitHub Pages](http://pages.github.com/) and [Jekyll](http://jekyllrb.com/) with extensibility and reusability in mind. Comments and additions are welcome.
+###Create a template course syllabus<span class="arrowh3"></span>
+
+The [syllabus section](http://pedagogy-toolkit.org/syllabus/) contains a selection of online syllabuses that cross digital humanities, digital literary studies, and digital rhetoric and composition. These may be used in conjunction with the [Syllabus Templating Tool](http://pedagogy-toolkit.org/syllabus/syllabus_builder.html) to produce a downloadable syllabus template designed for further revision. The tool allows users to remix and edit components of existing online syllabuses to produce a draft course syllabus, including resources that invite teachers to reflect upon the cultural choices, values, and philosophies of learning that figure into the process of syllabus production.
+
+###Create a teaching website<span class="arrowh3"></span>
+
+The [templates branch](https://github.com/axchristie/test/tree/templates) contains open source code that lets users produce their own course sites. To create a teaching site, simply follow the readme guide on the templates branch--no previous coding experience is required. All code is designed for [GitHub Pages](http://pages.github.com/) and [Jekyll](http://jekyllrb.com/) with extensibility and reusability in mind. Comments and additions are welcome.
+
+###Teach in the Cloud<span class="arrowh3"></span>
+
+Using Git and the GitHub client, the toolkit can be be deployed as a teaching cloud hosted via GitHub pages. Use the repository to push updated teaching material to the cloud and access it from anywhere. Or take your teaching further by turning your repository into an open source teaching website, reusing the code from this website or by using a [website template](https://github.com/axchristie/test/tree/templates) from the "templates" fork. 
 
 ##Bibliography<span class="arrowh2"></span>
 
