@@ -17,6 +17,10 @@ This site applies an open source philosophy to course development.
 
 Every year, teachers generate a wealth of teaching documents, lesson plans, and new approaches to pedagogy. Building and refining these materials over time is the result of conversations and collaborations amongst teachers. Yet these collaborative efforts are often limited by physical boundaries, confined to groups within home institutions and at conference meetings. What if we could use new forms of online interaction to improve our teaching together? This site aims to do just that. {{ site.name }} serves as a hub for sharing teaching documents and activities. It is designed to improve the effectiveness and accessibility of digital approaches to teaching while lowering the barrier of entry.
 
+####Contact<span class="arrowh4"></span>
+
+Keep in touch with the project online through [Twitter](https://twitter.com/PedagogyKit).
+
 ##Sharing<span class="arrowh2"></span>
 
 ###Using the toolkit<span class="arrowh3"></span>
