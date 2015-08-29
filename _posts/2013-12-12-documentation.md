@@ -19,7 +19,7 @@ Every year, teachers generate a wealth of teaching documents, lesson plans, and 
 
 ####Contact<span class="arrowh4"></span>
 
-Keep in touch with the project online through [Twitter](https://twitter.com/PedagogyKit).
+This project is developed by [Alex Christie](http://web.uvic.ca/~achris/). Keep in touch with the project online through [Twitter](https://twitter.com/PedagogyKit).
 
 ##Sharing<span class="arrowh2"></span>
 
