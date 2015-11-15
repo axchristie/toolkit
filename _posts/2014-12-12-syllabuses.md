@@ -31,7 +31,7 @@ While the syllabuses below are roughly divided between two categories, they all 
 
 ####Further Resources <span class="arrowh4"></span>
 
-See much more at [CUNY Academic Commons](http://commons.gc.cuny.edu/wiki/index.php/DH_Programs_and_Syllabi)
+See much more at [CUNY Academic Commons](http://commons.gc.cuny.edu/wiki/index.php/DH_Programs_and_Syllabi) and the [Open Syllabus Project](http://opensyllabusproject.org/).
 
 ##Digital Assignments <span class="arrowh2"></span>
 
